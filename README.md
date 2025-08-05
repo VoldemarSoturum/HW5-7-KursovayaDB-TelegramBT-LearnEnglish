@@ -335,7 +335,7 @@ erDiagram
     users ||--|| leaderboard : "1:1"
 ```
 
-![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+![Изображение](https://github.com/VoldemarSoturum/HW5-7-KursovayaDB-TelegramBT-LearnEnglish/blob/main/DbeaverDiagram.PNG "DBEAVER DIAGRAM")
 
 # Основные методы:
 
