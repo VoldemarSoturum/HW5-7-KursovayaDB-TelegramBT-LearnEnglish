@@ -1,0 +1,2543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <entry><en>ability</en><ru>способность</ru></entry>
+  <entry><en>absence</en><ru>отсутствие</ru></entry>
+  <entry><en>account</en><ru>счет</ru></entry>
+  <entry><en>achievement</en><ru>достижение</ru></entry>
+  <entry><en>action</en><ru>действие</ru></entry>
+  <entry><en>activity</en><ru>активность</ru></entry>
+  <entry><en>address</en><ru>адрес</ru></entry>
+  <entry><en>advantage</en><ru>преимущество</ru></entry>
+  <entry><en>adventure</en><ru>приключение</ru></entry>
+  <entry><en>advice</en><ru>совет</ru></entry>
+  <entry><en>agreement</en><ru>соглашение</ru></entry>
+  <entry><en>airport</en><ru>аэропорт</ru></entry>
+  <entry><en>alcohol</en><ru>алкоголь</ru></entry>
+  <entry><en>ambition</en><ru>амбиция</ru></entry>
+  <entry><en>analysis</en><ru>анализ</ru></entry>
+  <entry><en>animal</en><ru>животное</ru></entry>
+  <entry><en>apartment</en><ru>квартира</ru></entry>
+  <entry><en>appearance</en><ru>внешность</ru></entry>
+  <entry><en>application</en><ru>приложение</ru></entry>
+  <entry><en>argument</en><ru>спор</ru></entry>
+  <entry><en>arrival</en><ru>прибытие</ru></entry>
+  <entry><en>article</en><ru>статья</ru></entry>
+  <entry><en>assignment</en><ru>задание</ru></entry>
+  <entry><en>assistant</en><ru>помощник</ru></entry>
+  <entry><en>atmosphere</en><ru>атмосфера</ru></entry>
+  <entry><en>attention</en><ru>внимание</ru></entry>
+  <entry><en>attitude</en><ru>отношение</ru></entry>
+  <entry><en>audience</en><ru>аудитория</ru></entry>
+  <entry><en>authority</en><ru>власть</ru></entry>
+  <entry><en>balance</en><ru>баланс</ru></entry>
+  <entry><en>basket</en><ru>корзина</ru></entry>
+  <entry><en>battery</en><ru>батарея</ru></entry>
+  <entry><en>behavior</en><ru>поведение</ru></entry>
+  <entry><en>benefit</en><ru>польза</ru></entry>
+  <entry><en>birthday</en><ru>день рождения</ru></entry>
+  <entry><en>boundary</en><ru>граница</ru></entry>
+  <entry><en>breakfast</en><ru>завтрак</ru></entry>
+  <entry><en>business</en><ru>бизнес</ru></entry>
+  <entry><en>calendar</en><ru>календарь</ru></entry>
+  <entry><en>camera</en><ru>камера</ru></entry>
+  <entry><en>candidate</en><ru>кандидат</ru></entry>
+  <entry><en>category</en><ru>категория</ru></entry>
+  <entry><en>celebration</en><ru>празднование</ru></entry>
+  <entry><en>challenge</en><ru>вызов</ru></entry>
+  <entry><en>character</en><ru>персонаж</ru></entry>
+  <entry><en>chemistry</en><ru>химия</ru></entry>
+  <entry><en>childhood</en><ru>детство</ru></entry>
+  <entry><en>circumstance</en><ru>обстоятельство</ru></entry>
+  <entry><en>climate</en><ru>климат</ru></entry>
+  <entry><en>clothing</en><ru>одежда</ru></entry>
+  <entry><en>coffee</en><ru>кофе</ru></entry>
+  <entry><en>colleague</en><ru>коллега</ru></entry>
+  <entry><en>collection</en><ru>коллекция</ru></entry>
+  <entry><en>combination</en><ru>комбинация</ru></entry>
+  <entry><en>comfort</en><ru>комфорт</ru></entry>
+  <entry><en>committee</en><ru>комитет</ru></entry>
+  <entry><en>communication</en><ru>общение</ru></entry>
+  <entry><en>community</en><ru>сообщество</ru></entry>
+  <entry><en>comparison</en><ru>сравнение</ru></entry>
+  <entry><en>competition</en><ru>соревнование</ru></entry>
+  <entry><en>computer</en><ru>компьютер</ru></entry>
+  <entry><en>concept</en><ru>концепция</ru></entry>
+  <entry><en>conclusion</en><ru>заключение</ru></entry>
+  <entry><en>condition</en><ru>условие</ru></entry>
+  <entry><en>conference</en><ru>конференция</ru></entry>
+  <entry><en>confidence</en><ru>уверенность</ru></entry>
+  <entry><en>connection</en><ru>связь</ru></entry>
+  <entry><en>consequence</en><ru>последствие</ru></entry>
+  <entry><en>construction</en><ru>строительство</ru></entry>
+  <entry><en>consumer</en><ru>потребитель</ru></entry>
+  <entry><en>context</en><ru>контекст</ru></entry>
+  <entry><en>contract</en><ru>контракт</ru></entry>
+  <entry><en>contribution</en><ru>вклад</ru></entry>
+  <entry><en>conversation</en><ru>разговор</ru></entry>
+  <entry><en>countryside</en><ru>деревня</ru></entry>
+  <entry><en>courage</en><ru>мужество</ru></entry>
+  <entry><en>creativity</en><ru>креативность</ru></entry>
+  <entry><en>currency</en><ru>валюта</ru></entry>
+  <entry><en>customer</en><ru>клиент</ru></entry>
+  <entry><en>database</en><ru>база данных</ru></entry>
+  <entry><en>decision</en><ru>решение</ru></entry>
+  <entry><en>definition</en><ru>определение</ru></entry>
+  <entry><en>delivery</en><ru>доставка</ru></entry>
+  <entry><en>democracy</en><ru>демократия</ru></entry>
+  <entry><en>description</en><ru>описание</ru></entry>
+  <entry><en>development</en><ru>развитие</ru></entry>
+  <entry><en>difference</en><ru>разница</ru></entry>
+  <entry><en>difficulty</en><ru>трудность</ru></entry>
+  <entry><en>direction</en><ru>направление</ru></entry>
+  <entry><en>disaster</en><ru>катастрофа</ru></entry>
+  <entry><en>discussion</en><ru>обсуждение</ru></entry>
+  <entry><en>disease</en><ru>болезнь</ru></entry>
+  <entry><en>distance</en><ru>расстояние</ru></entry>
+  <entry><en>distribution</en><ru>распределение</ru></entry>
+  <entry><en>document</en><ru>документ</ru></entry>
+  <entry><en>education</en><ru>образование</ru></entry>
+  <entry><en>efficiency</en><ru>эффективность</ru></entry>
+  <entry><en>effort</en><ru>усилие</ru></entry>
+  <entry><en>election</en><ru>выборы</ru></entry>
+  <entry><en>electricity</en><ru>электричество</ru></entry>
+  <entry><en>emergency</en><ru>чрезвычайная ситуация</ru></entry>
+  <entry><en>emotion</en><ru>эмоция</ru></entry>
+  <entry><en>employee</en><ru>сотрудник</ru></entry>
+  <entry><en>employer</en><ru>работодатель</ru></entry>
+  <entry><en>entertainment</en><ru>развлечение</ru></entry>
+  <entry><en>environment</en><ru>окружающая среда</ru></entry>
+  <entry><en>equipment</en><ru>оборудование</ru></entry>
+  <entry><en>establishment</en><ru>учреждение</ru></entry>
+  <entry><en>evaluation</en><ru>оценка</ru></entry>
+  <entry><en>evidence</en><ru>доказательство</ru></entry>
+  <entry><en>example</en><ru>пример</ru></entry>
+  <entry><en>examination</en><ru>экзамен</ru></entry>
+  <entry><en>excitement</en><ru>волнение</ru></entry>
+  <entry><en>exercise</en><ru>упражнение</ru></entry>
+  <entry><en>experience</en><ru>опыт</ru></entry>
+  <entry><en>explanation</en><ru>объяснение</ru></entry>
+  <entry><en>expression</en><ru>выражение</ru></entry>
+  <entry><en>facility</en><ru>сооружение</ru></entry>
+  <entry><en>failure</en><ru>неудача</ru></entry>
+  <entry><en>familiar</en><ru>знакомый</ru></entry>
+  <entry><en>feature</en><ru>особенность</ru></entry>
+  <entry><en>feedback</en><ru>обратная связь</ru></entry>
+  <entry><en>finance</en><ru>финансы</ru></entry>
+  <entry><en>flight</en><ru>полет</ru></entry>
+  <entry><en>fortune</en><ru>состояние</ru></entry>
+  <entry><en>foundation</en><ru>фундамент</ru></entry>
+  <entry><en>freedom</en><ru>свобода</ru></entry>
+  <entry><en>friendship</en><ru>дружба</ru></entry>
+  <entry><en>function</en><ru>функция</ru></entry>
+  <entry><en>future</en><ru>будущее</ru></entry>
+  <entry><en>garbage</en><ru>мусор</ru></entry>
+  <entry><en>garden</en><ru>сад</ru></entry>
+  <entry><en>government</en><ru>правительство</ru></entry>
+  <entry><en>graduation</en><ru>выпускной</ru></entry>
+  <entry><en>guideline</en><ru>руководство</ru></entry>
+  <entry><en>happiness</en><ru>счастье</ru></entry>
+  <entry><en>hardware</en><ru>аппаратное обеспечение</ru></entry>
+  <entry><en>health</en><ru>здоровье</ru></entry>
+  <entry><en>hearing</en><ru>слух</ru></entry>
+  <entry><en>highway</en><ru>шоссе</ru></entry>
+  <entry><en>history</en><ru>история</ru></entry>
+  <entry><en>homework</en><ru>домашняя работа</ru></entry>
+  <entry><en>hospital</en><ru>больница</ru></entry>
+  <entry><en>hotel</en><ru>отель</ru></entry>
+  <entry><en>household</en><ru>домашнее хозяйство</ru></entry>
+  <entry><en>housing</en><ru>жилье</ru></entry>
+  <entry><en>identity</en><ru>личность</ru></entry>
+  <entry><en>importance</en><ru>важность</ru></entry>
+  <entry><en>impression</en><ru>впечатление</ru></entry>
+  <entry><en>improvement</en><ru>улучшение</ru></entry>
+  <entry><en>independence</en><ru>независимость</ru></entry>
+  <entry><en>indication</en><ru>указание</ru></entry>
+  <entry><en>industry</en><ru>промышленность</ru></entry>
+  <entry><en>information</en><ru>информация</ru></entry>
+  <entry><en>initiative</en><ru>инициатива</ru></entry>
+  <entry><en>injury</en><ru>травма</ru></entry>
+  <entry><en>inspection</en><ru>инспекция</ru></entry>
+  <entry><en>instance</en><ru>экземпляр</ru></entry>
+  <entry><en>instruction</en><ru>инструкция</ru></entry>
+  <entry><en>insurance</en><ru>страхование</ru></entry>
+  <entry><en>intention</en><ru>намерение</ru></entry>
+  <entry><en>interaction</en><ru>взаимодействие</ru></entry>
+  <entry><en>internet</en><ru>интернет</ru></entry>
+  <entry><en>interview</en><ru>собеседование</ru></entry>
+  <entry><en>introduction</en><ru>введение</ru></entry>
+  <entry><en>investment</en><ru>инвестиция</ru></entry>
+  <entry><en>knowledge</en><ru>знание</ru></entry>
+  <entry><en>laboratory</en><ru>лаборатория</ru></entry>
+  <entry><en>language</en><ru>язык</ru></entry>
+  <entry><en>laughter</en><ru>смех</ru></entry>
+  <entry><en>leadership</en><ru>руководство</ru></entry>
+  <entry><en>learning</en><ru>обучение</ru></entry>
+  <entry><en>liability</en><ru>обязательство</ru></entry>
+  <entry><en>location</en><ru>местоположение</ru></entry>
+  <entry><en>machine</en><ru>машина</ru></entry>
+  <entry><en>management</en><ru>управление</ru></entry>
+  <entry><en>marriage</en><ru>брак</ru></entry>
+  <entry><en>material</en><ru>материал</ru></entry>
+  <entry><en>medicine</en><ru>медицина</ru></entry>
+  <entry><en>membership</en><ru>членство</ru></entry>
+  <entry><en>memory</en><ru>память</ru></entry>
+  <entry><en>midnight</en><ru>полночь</ru></entry>
+  <entry><en>minority</en><ru>меньшинство</ru></entry>
+  <entry><en>mistake</en><ru>ошибка</ru></entry>
+  <entry><en>mixture</en><ru>смесь</ru></entry>
+  <entry><en>monitor</en><ru>монитор</ru></entry>
+  <entry><en>mortgage</en><ru>ипотека</ru></entry>
+  <entry><en>motivation</en><ru>мотивация</ru></entry>
+  <entry><en>mountain</en><ru>гора</ru></entry>
+  <entry><en>movement</en><ru>движение</ru></entry>
+  <entry><en>nationality</en><ru>национальность</ru></entry>
+  <entry><en>negotiation</en><ru>переговоры</ru></entry>
+  <entry><en>newspaper</en><ru>газета</ru></entry>
+  <entry><en>obligation</en><ru>обязанность</ru></entry>
+  <entry><en>occasion</en><ru>повод</ru></entry>
+  <entry><en>operation</en><ru>операция</ru></entry>
+  <entry><en>opportunity</en><ru>возможность</ru></entry>
+  <entry><en>organization</en><ru>организация</ru></entry>
+  <entry><en>outcome</en><ru>результат</ru></entry>
+  <entry><en>package</en><ru>пакет</ru></entry>
+  <entry><en>passenger</en><ru>пассажир</ru></entry>
+  <entry><en>patience</en><ru>терпение</ru></entry>
+  <entry><en>payment</en><ru>оплата</ru></entry>
+  <entry><en>performance</en><ru>производительность</ru></entry>
+  <entry><en>permission</en><ru>разрешение</ru></entry>
+  <entry><en>personality</en><ru>личность</ru></entry>
+  <entry><en>perspective</en><ru>перспектива</ru></entry>
+  <entry><en>philosophy</en><ru>философия</ru></entry>
+  <entry><en>pollution</en><ru>загрязнение</ru></entry>
+  <entry><en>population</en><ru>население</ru></entry>
+  <entry><en>possession</en><ru>владение</ru></entry>
+  <entry><en>possibility</en><ru>возможность</ru></entry>
+  <entry><en>preference</en><ru>предпочтение</ru></entry>
+  <entry><en>preparation</en><ru>подготовка</ru></entry>
+  <entry><en>president</en><ru>президент</ru></entry>
+  <entry><en>pressure</en><ru>давление</ru></entry>
+  <entry><en>priority</en><ru>приоритет</ru></entry>
+  <entry><en>procedure</en><ru>процедура</ru></entry>
+  <entry><en>production</en><ru>производство</ru></entry>
+  <entry><en>professor</en><ru>профессор</ru></entry>
+  <entry><en>promotion</en><ru>продвижение</ru></entry>
+  <entry><en>property</en><ru>собственность</ru></entry>
+  <entry><en>proposal</en><ru>предложение</ru></entry>
+  <entry><en>protection</en><ru>защита</ru></entry>
+  <entry><en>psychology</en><ru>психология</ru></entry>
+  <entry><en>purpose</en><ru>цель</ru></entry>
+  <entry><en>quantity</en><ru>количество</ru></entry>
+  <entry><en>questionnaire</en><ru>анкета</ru></entry>
+  <entry><en>reaction</en><ru>реакция</ru></entry>
+  <entry><en>reality</en><ru>реальность</ru></entry>
+  <entry><en>recognition</en><ru>признание</ru></entry>
+  <entry><en>recommendation</en><ru>рекомендация</ru></entry>
+  <entry><en>reference</en><ru>ссылка</ru></entry>
+  <entry><en>reflection</en><ru>отражение</ru></entry>
+  <entry><en>refrigerator</en><ru>холодильник</ru></entry>
+  <entry><en>relationship</en><ru>отношения</ru></entry>
+  <entry><en>replacement</en><ru>замена</ru></entry>
+  <entry><en>reputation</en><ru>репутация</ru></entry>
+  <entry><en>requirement</en><ru>требование</ru></entry>
+  <entry><en>resistance</en><ru>сопротивление</ru></entry>
+  <entry><en>resolution</en><ru>разрешение</ru></entry>
+  <entry><en>resource</en><ru>ресурс</ru></entry>
+  <entry><en>response</en><ru>ответ</ru></entry>
+  <entry><en>responsibility</en><ru>ответственность</ru></entry>
+  <entry><en>restaurant</en><ru>ресторан</ru></entry>
+  <entry><en>revolution</en><ru>революция</ru></entry>
+  <entry><en>satisfaction</en><ru>удовлетворение</ru></entry>
+  <entry><en>secretary</en><ru>секретарь</ru></entry>
+  <entry><en>security</en><ru>безопасность</ru></entry>
+  <entry><en>selection</en><ru>выбор</ru></entry>
+  <entry><en>situation</en><ru>ситуация</ru></entry>
+  <entry><en>software</en><ru>программное обеспечение</ru></entry>
+  <entry><en>solution</en><ru>решение</ru></entry>
+  <entry><en>speaker</en><ru>спикер</ru></entry>
+  <entry><en>statement</en><ru>заявление</ru></entry>
+  <entry><en>storage</en><ru>хранилище</ru></entry>
+  <entry><en>strategy</en><ru>стратегия</ru></entry>
+  <entry><en>strength</en><ru>сила</ru></entry>
+  <entry><en>structure</en><ru>структура</ru></entry>
+  <entry><en>success</en><ru>успех</ru></entry>
+  <entry><en>suggestion</en><ru>предложение</ru></entry>
+  <entry><en>supermarket</en><ru>супермаркет</ru></entry>
+  <entry><en>sympathy</en><ru>сочувствие</ru></entry>
+  <entry><en>technology</en><ru>технология</ru></entry>
+  <entry><en>television</en><ru>телевидение</ru></entry>
+  <entry><en>temperature</en><ru>температура</ru></entry>
+  <entry><en>tendency</en><ru>тенденция</ru></entry>
+  <entry><en>tradition</en><ru>традиция</ru></entry>
+  <entry><en>transportation</en><ru>транспорт</ru></entry>
+  <entry><en>university</en><ru>университет</ru></entry>
+  <entry><en>variety</en><ru>разнообразие</ru></entry>
+  <entry><en>vehicle</en><ru>транспортное средство</ru></entry>
+  <entry><en>victory</en><ru>победа</ru></entry>
+  <entry><en>village</en><ru>деревня</ru></entry>
+  <entry><en>violence</en><ru>насилие</ru></entry>
+  <entry><en>vocabulary</en><ru>словарный запас</ru></entry>
+  <entry><en>weakness</en><ru>слабость</ru></entry>
+  <entry><en>weather</en><ru>погода</ru></entry>
+  <entry><en>website</en><ru>веб-сайт</ru></entry>
+  <entry><en>wedding</en><ru>свадьба</ru></entry>
+  <entry><en>wildlife</en><ru>дикая природа</ru></entry>
+  <entry><en>workplace</en><ru>рабочее место</ru></entry>
+  <entry><en>yesterday</en><ru>вчера</ru></entry>
+  <entry>
+    <en>hello</en>
+    <ru>привет</ru>
+  </entry>
+  <entry>
+    <en>goodbye</en>
+    <ru>пока</ru>
+  </entry>
+  <entry>
+    <en>yes</en>
+    <ru>да</ru>
+  </entry>
+  <entry>
+    <en>no</en>
+    <ru>нет</ru>
+  </entry>
+  <entry>
+    <en>please</en>
+    <ru>пожалуйста</ru>
+  </entry>
+  <entry>
+    <en>thanks</en>
+    <ru>спасибо</ru>
+  </entry>
+  <entry>
+    <en>sorry</en>
+    <ru>извини</ru>
+  </entry>
+  <entry>
+    <en>time</en>
+    <ru>время</ru>
+  </entry>
+  <entry>
+    <en>day</en>
+    <ru>день</ru>
+  </entry>
+  <entry>
+    <en>night</en>
+    <ru>ночь</ru>
+  </entry>
+  <entry>
+    <en>man</en>
+    <ru>мужчина</ru>
+  </entry>
+  <entry>
+    <en>woman</en>
+    <ru>женщина</ru>
+  </entry>
+  <entry>
+    <en>child</en>
+    <ru>ребёнок</ru>
+  </entry>
+  <entry>
+    <en>friend</en>
+    <ru>друг</ru>
+  </entry>
+  <entry>
+    <en>family</en>
+    <ru>семья</ru>
+  </entry>
+  <entry>
+    <en>home</en>
+    <ru>дом</ru>
+  </entry>
+  <entry>
+    <en>food</en>
+    <ru>еда</ru>
+  </entry>
+  <entry>
+    <en>water</en>
+    <ru>вода</ru>
+  </entry>
+  <entry>
+    <en>money</en>
+    <ru>деньги</ru>
+  </entry>
+  <entry>
+    <en>work</en>
+    <ru>работа</ru>
+  </entry>
+  <entry>
+    <en>school</en>
+    <ru>школа</ru>
+  </entry>
+  <entry>
+    <en>book</en>
+    <ru>книга</ru>
+  </entry>
+  <entry> 
+    <en>car</en>
+    <ru>машина</ru>   
+  </entry>
+ <!-- Первые 20 слов из предыдущего примера... -->
+  
+  <entry>
+    <en>school</en>
+    <ru>школа</ru>
+  </entry>
+  <entry>
+    <en>city</en>
+    <ru>город</ru>
+  </entry>
+  <entry>
+    <en>street</en>
+    <ru>улица</ru>
+  </entry>
+  <entry>
+    <en>car</en>
+    <ru>машина</ru>
+  </entry>
+  <entry>
+    <en>bus</en>
+    <ru>автобус</ru>
+  </entry>
+  <entry>
+    <en>train</en>
+    <ru>поезд</ru>
+  </entry>
+  <entry>
+    <en>airport</en>
+    <ru>аэропорт</ru>
+  </entry>
+  <entry>
+    <en>ticket</en>
+    <ru>билет</ru>
+  </entry>
+  <entry>
+    <en>hotel</en>
+    <ru>отель</ru>
+  </entry>
+  <entry>
+    <en>restaurant</en>
+    <ru>ресторан</ru>
+  </entry>
+  <entry>
+    <en>menu</en>
+    <ru>меню</ru>
+  </entry>
+  <entry>
+    <en>coffee</en>
+    <ru>кофе</ru>
+  </entry>
+  <entry>
+    <en>tea</en>
+    <ru>чай</ru>
+  </entry>
+  <entry>
+    <en>milk</en>
+    <ru>молоко</ru>
+  </entry>
+  <entry>
+    <en>sugar</en>
+    <ru>сахар</ru>
+  </entry>
+  <entry>
+    <en>salt</en>
+    <ru>соль</ru>
+  </entry>
+  <entry>
+    <en>bread</en>
+    <ru>хлеб</ru>
+  </entry>
+  <entry>
+    <en>meat</en>
+    <ru>мясо</ru>
+  </entry>
+  <entry>
+    <en>fish</en>
+    <ru>рыба</ru>
+  </entry>
+  <entry>
+    <en>vegetable</en>
+    <ru>овощ</ru>
+  </entry>
+  <entry>
+    <en>fruit</en>
+    <ru>фрукт</ru>
+  </entry>
+  <entry>
+    <en>breakfast</en>
+    <ru>завтрак</ru>
+  </entry>
+  <entry>
+    <en>lunch</en>
+    <ru>обед</ru>
+  </entry>
+  <entry>
+    <en>dinner</en>
+    <ru>ужин</ru>
+  </entry>
+  <entry>
+    <en>market</en>
+    <ru>рынок</ru>
+  </entry>
+  <entry>
+    <en>shop</en>
+    <ru>магазин</ru>
+  </entry>
+  <entry>
+    <en>price</en>
+    <ru>цена</ru>
+  </entry>
+  <entry>
+    <en>expensive</en>
+    <ru>дорогой</ru>
+  </entry>
+  <entry>
+    <en>cheap</en>
+    <ru>дешёвый</ru>
+  </entry>
+  <!-- Основные слова -->
+  <entry><en>hello</en><ru>привет</ru></entry>
+  <entry><en>goodbye</en><ru>пока</ru></entry>
+  <entry><en>yes</en><ru>да</ru></entry>
+  <entry><en>no</en><ru>нет</ru></entry>
+  <entry><en>please</en><ru>пожалуйста</ru></entry>
+  <entry><en>thanks</en><ru>спасибо</ru></entry>
+  <entry><en>sorry</en><ru>извини</ru></entry>
+  <entry><en>what</en><ru>что</ru></entry>
+  <entry><en>where</en><ru>где</ru></entry>
+  <entry><en>when</en><ru>когда</ru></entry>
+  <entry><en>why</en><ru>почему</ru></entry>
+  <entry><en>how</en><ru>как</ru></entry>
+  
+  <!-- Семья -->
+  <entry><en>family</en><ru>семья</ru></entry>
+  <entry><en>mother</en><ru>мать</ru></entry>
+  <entry><en>father</en><ru>отец</ru></entry>
+  <entry><en>son</en><ru>сын</ru></entry>
+  <entry><en>daughter</en><ru>дочь</ru></entry>
+  <entry><en>brother</en><ru>брат</ru></entry>
+  <entry><en>sister</en><ru>сестра</ru></entry>
+  
+  <!-- Еда -->
+  <entry><en>eat</en><ru>есть</ru></entry>
+  <entry><en>drink</en><ru>пить</ru></entry>
+  <entry><en>water</en><ru>вода</ru></entry>
+  <entry><en>food</en><ru>еда</ru></entry>
+  <entry><en>bread</en><ru>хлеб</ru></entry>
+  <entry><en>meat</en><ru>мясо</ru></entry>
+  <entry><en>fish</en><ru>рыба</ru></entry>
+  
+  <!-- Город -->
+  <entry><en>city</en><ru>город</ru></entry>
+  <entry><en>street</en><ru>улица</ru></entry>
+  <entry><en>house</en><ru>дом</ru></entry>
+  <entry><en>shop</en><ru>магазин</ru></entry>
+  <entry><en>market</en><ru>рынок</ru></entry>
+  <entry><en>bank</en><ru>банк</ru></entry>
+  
+  <!-- Транспорт -->
+  <entry><en>car</en><ru>машина</ru></entry>
+  <entry><en>bus</en><ru>автобус</ru></entry>
+  <entry><en>train</en><ru>поезд</ru></entry>
+  <entry><en>plane</en><ru>самолет</ru></entry>
+  <entry><en>ticket</en><ru>билет</ru></entry>
+  
+  <!-- Время -->
+  <entry><en>time</en><ru>время</ru></entry>
+  <entry><en>hour</en><ru>час</ru></entry>
+  <entry><en>minute</en><ru>минута</ru></entry>
+  <entry><en>day</en><ru>день</ru></entry>
+  <entry><en>night</en><ru>ночь</ru></entry>
+  
+  <!-- Погода -->
+  <entry><en>sun</en><ru>солнце</ru></entry>
+  <entry><en>rain</en><ru>дождь</ru></entry>
+  <entry><en>snow</en><ru>снег</ru></entry>
+  <entry><en>wind</en><ru>ветер</ru></entry>
+  
+  <!-- Цвета -->
+  <entry><en>red</en><ru>красный</ru></entry>
+  <entry><en>blue</en><ru>синий</ru></entry>
+  <entry><en>green</en><ru>зеленый</ru></entry>
+  <entry><en>yellow</en><ru>желтый</ru></entry>
+  
+  <!-- Числа 1-10 -->
+  <entry><en>one</en><ru>один</ru></entry>
+  <entry><en>two</en><ru>два</ru></entry>
+  <entry><en>three</en><ru>три</ru></entry>
+  <entry><en>four</en><ru>четыре</ru></entry>
+  <entry><en>five</en><ru>пять</ru></entry>
+  <entry><en>six</en><ru>шесть</ru></entry>
+  <entry><en>seven</en><ru>семь</ru></entry>
+  <entry><en>eight</en><ru>восемь</ru></entry>
+  <entry><en>nine</en><ru>девять</ru></entry>
+  <entry><en>ten</en><ru>десять</ru></entry>
+  
+  <!-- Глаголы -->
+  <entry><en>go</en><ru>идти</ru></entry>
+  <entry><en>come</en><ru>приходить</ru></entry>
+  <entry><en>give</en><ru>давать</ru></entry>
+  <entry><en>take</en><ru>брать</ru></entry>
+  <entry><en>make</en><ru>делать</ru></entry>
+  <entry><en>know</en><ru>знать</ru></entry>
+  
+  <!-- Прилагательные -->
+  <entry><en>good</en><ru>хороший</ru></entry>
+  <entry><en>bad</en><ru>плохой</ru></entry>
+  <entry><en>big</en><ru>большой</ru></entry>
+  <entry><en>small</en><ru>маленький</ru></entry>
+  <entry><en>hot</en><ru>горячий</ru></entry>
+  <entry><en>cold</en><ru>холодный</ru></entry>
+  
+  <!-- Тело -->
+  <entry><en>head</en><ru>голова</ru></entry>
+  <entry><en>hand</en><ru>рука</ru></entry>
+  <entry><en>leg</en><ru>нога</ru></entry>
+  <entry><en>eye</en><ru>глаз</ru></entry>
+  <entry><en>ear</en><ru>ухо</ru></entry>
+  
+  <!-- Одежда -->
+  <entry><en>clothes</en><ru>одежда</ru></entry>
+  <entry><en>shirt</en><ru>рубашка</ru></entry>
+  <entry><en>pants</en><ru>брюки</ru></entry>
+  <entry><en>shoes</en><ru>обувь</ru></entry>
+  
+  <!-- Животные -->
+  <entry><en>dog</en><ru>собака</ru></entry>
+  <entry><en>cat</en><ru>кот</ru></entry>
+  <entry><en>bird</en><ru>птица</ru></entry>
+  <entry><en>fish</en><ru>рыба</ru></entry>
+  
+  <!-- Профессии -->
+  <entry><en>teacher</en><ru>учитель</ru></entry>
+  <entry><en>doctor</en><ru>врач</ru></entry>
+  <entry><en>driver</en><ru>водитель</ru></entry>
+  
+  <!-- 90+ других популярных слов -->
+  <entry><en>money</en><ru>деньги</ru></entry>
+  <entry><en>work</en><ru>работа</ru></entry>
+  <entry><en>love</en><ru>любовь</ru></entry>
+  <entry><en>friend</en><ru>друг</ru></entry>
+  <entry><en>home</en><ru>дом</ru></entry>
+  <entry><en>phone</en><ru>телефон</ru></entry>
+  <entry><en>computer</en><ru>компьютер</ru></entry>
+  <entry><en>internet</en><ru>интернет</ru></entry>
+  <entry><en>music</en><ru>музыка</ru></entry>
+  <entry><en>movie</en><ru>фильм</ru></entry>
+  <entry><en>game</en><ru>игра</ru></entry>
+  <entry><en>book</en><ru>книга</ru></entry>
+  <entry><en>school</en><ru>школа</ru></entry>
+  <entry><en>university</en><ru>университет</ru></entry>
+  <entry><en>language</en><ru>язык</ru></entry>
+  <entry><en>travel</en><ru>путешествие</ru></entry>
+  <entry><en>holiday</en><ru>отпуск</ru></entry>
+  <entry><en>health</en><ru>здоровье</ru></entry>
+  <entry><en>exercise</en><ru>упражнение</ru></entry>
+  <!-- Базовые слова (1-50) -->
+  <entry><en>I</en><ru>я</ru></entry>
+  <entry><en>you</en><ru>ты</ru></entry>
+  <entry><en>he</en><ru>он</ru></entry>
+  <entry><en>she</en><ru>она</ru></entry>
+  <entry><en>it</en><ru>оно</ru></entry>
+  <entry><en>we</en><ru>мы</ru></entry>
+  <entry><en>they</en><ru>они</ru></entry>
+  <entry><en>this</en><ru>этот</ru></entry>
+  <entry><en>that</en><ru>тот</ru></entry>
+  <entry><en>here</en><ru>здесь</ru></entry>
+  <entry><en>there</en><ru>там</ru></entry>
+  <entry><en>who</en><ru>кто</ru></entry>
+  <entry><en>what</en><ru>что</ru></entry>
+  <entry><en>where</en><ru>где</ru></entry>
+  <entry><en>when</en><ru>когда</ru></entry>
+  <entry><en>why</en><ru>почему</ru></entry>
+  <entry><en>how</en><ru>как</ru></entry>
+  <entry><en>not</en><ru>не</ru></entry>
+  <entry><en>all</en><ru>все</ru></entry>
+  <entry><en>many</en><ru>много</ru></entry>
+  <entry><en>some</en><ru>несколько</ru></entry>
+  <entry><en>few</en><ru>мало</ru></entry>
+  <entry><en>other</en><ru>другой</ru></entry>
+  <entry><en>one</en><ru>один</ru></entry>
+  <entry><en>two</en><ru>два</ru></entry>
+  <entry><en>three</en><ru>три</ru></entry>
+  <entry><en>four</en><ru>четыре</ru></entry>
+  <entry><en>five</en><ru>пять</ru></entry>
+  <entry><en>big</en><ru>большой</ru></entry>
+  <entry><en>long</en><ru>длинный</ru></entry>
+  <entry><en>wide</en><ru>широкий</ru></entry>
+  <entry><en>thick</en><ru>толстый</ru></entry>
+  <entry><en>heavy</en><ru>тяжёлый</ru></entry>
+  <entry><en>small</en><ru>маленький</ru></entry>
+  <entry><en>short</en><ru>короткий</ru></entry>
+  <entry><en>narrow</en><ru>узкий</ru></entry>
+  <entry><en>thin</en><ru>тонкий</ru></entry>
+  <entry><en>woman</en><ru>женщина</ru></entry>
+  <entry><en>man</en><ru>мужчина</ru></entry>
+  <entry><en>person</en><ru>человек</ru></entry>
+  <entry><en>child</en><ru>ребёнок</ru></entry>
+  <entry><en>wife</en><ru>жена</ru></entry>
+  <entry><en>husband</en><ru>муж</ru></entry>
+  <entry><en>mother</en><ru>мать</ru></entry>
+  <entry><en>father</en><ru>отец</ru></entry>
+  <entry><en>animal</en><ru>животное</ru></entry>
+  <entry><en>fish</en><ru>рыба</ru></entry>
+  <entry><en>bird</en><ru>птица</ru></entry>
+  <entry><en>dog</en><ru>собака</ru></entry>
+
+  <!-- Дом (51-100) -->
+  <entry><en>house</en><ru>дом</ru></entry>
+  <entry><en>room</en><ru>комната</ru></entry>
+  <entry><en>bed</en><ru>кровать</ru></entry>
+  <entry><en>table</en><ru>стол</ru></entry>
+  <entry><en>chair</en><ru>стул</ru></entry>
+  <entry><en>window</en><ru>окно</ru></entry>
+  <entry><en>door</en><ru>дверь</ru></entry>
+  <entry><en>wall</en><ru>стена</ru></entry>
+  <entry><en>floor</en><ru>пол</ru></entry>
+  <entry><en>ceiling</en><ru>потолок</ru></entry>
+  <entry><en>kitchen</en><ru>кухня</ru></entry>
+  <entry><en>bathroom</en><ru>ванная</ru></entry>
+  <entry><en>toilet</en><ru>туалет</ru></entry>
+  <entry><en>shower</en><ru>душ</ru></entry>
+  <entry><en>mirror</en><ru>зеркало</ru></entry>
+  <entry><en>lamp</en><ru>лампа</ru></entry>
+  <entry><en>sofa</en><ru>диван</ru></entry>
+  <entry><en>cupboard</en><ru>шкаф</ru></entry>
+  <entry><en>fridge</en><ru>холодильник</ru></entry>
+  <entry><en>oven</en><ru>духовка</ru></entry>
+  <entry><en>knife</en><ru>нож</ru></entry>
+  <entry><en>fork</en><ru>вилка</ru></entry>
+  <entry><en>spoon</en><ru>ложка</ru></entry>
+  <entry><en>plate</en><ru>тарелка</ru></entry>
+  <entry><en>cup</en><ru>чашка</ru></entry>
+  <entry><en>glass</en><ru>стакан</ru></entry>
+  <entry><en>bottle</en><ru>бутылка</ru></entry>
+  <entry><en>key</en><ru>ключ</ru></entry>
+  <entry><en>clock</en><ru>часы</ru></entry>
+  <entry><en>picture</en><ru>картина</ru></entry>
+  <entry><en>garden</en><ru>сад</ru></entry>
+  <entry><en>garage</en><ru>гараж</ru></entry>
+  <entry><en>tool</en><ru>инструмент</ru></entry>
+  <entry><en>bag</en><ru>сумка</ru></entry>
+  <entry><en>box</en><ru>коробка</ru></entry>
+  <entry><en>gift</en><ru>подарок</ru></entry>
+  <entry><en>book</en><ru>книга</ru></entry>
+  <entry><en>pen</en><ru>ручка</ru></entry>
+  <entry><en>paper</en><ru>бумага</ru></entry>
+  <entry><en>money</en><ru>деньги</ru></entry>
+  <entry><en>card</en><ru>карта</ru></entry>
+  <entry><en>computer</en><ru>компьютер</ru></entry>
+  <entry><en>phone</en><ru>телефон</ru></entry>
+  <entry><en>camera</en><ru>камера</ru></entry>
+  <entry><en>television</en><ru>телевизор</ru></entry>
+  <entry><en>radio</en><ru>радио</ru></entry>
+  <entry><en>music</en><ru>музыка</ru></entry>
+  <entry><en>game</en><ru>игра</ru></entry>
+  <entry><en>toy</en><ru>игрушка</ru></entry>
+
+  <!-- Еда (101-150) -->
+  <entry><en>food</en><ru>еда</ru></entry>
+  <entry><en>bread</en><ru>хлеб</ru></entry>
+  <entry><en>meat</en><ru>мясо</ru></entry>
+  <entry><en>beef</en><ru>говядина</ru></entry>
+  <entry><en>pork</en><ru>свинина</ru></entry>
+  <entry><en>chicken</en><ru>курица</ru></entry>
+  <entry><en>fish</en><ru>рыба</ru></entry>
+  <entry><en>egg</en><ru>яйцо</ru></entry>
+  <entry><en>salad</en><ru>салат</ru></entry>
+  <entry><en>vegetable</en><ru>овощ</ru></entry>
+  <entry><en>potato</en><ru>картофель</ru></entry>
+  <entry><en>carrot</en><ru>морковь</ru></entry>
+  <entry><en>onion</en><ru>лук</ru></entry>
+  <entry><en>tomato</en><ru>помидор</ru></entry>
+  <entry><en>fruit</en><ru>фрукт</ru></entry>
+  <entry><en>apple</en><ru>яблоко</ru></entry>
+  <entry><en>banana</en><ru>банан</ru></entry>
+  <entry><en>orange</en><ru>апельсин</ru></entry>
+  <entry><en>grape</en><ru>виноград</ru></entry>
+  <entry><en>water</en><ru>вода</ru></entry>
+  <entry><en>milk</en><ru>молоко</ru></entry>
+  <entry><en>tea</en><ru>чай</ru></entry>
+  <entry><en>coffee</en><ru>кофе</ru></entry>
+  <entry><en>juice</en><ru>сок</ru></entry>
+  <entry><en>beer</en><ru>пиво</ru></entry>
+  <entry><en>wine</en><ru>вино</ru></entry>
+  <entry><en>salt</en><ru>соль</ru></entry>
+  <entry><en>sugar</en><ru>сахар</ru></entry>
+  <entry><en>honey</en><ru>мёд</ru></entry>
+  <entry><en>oil</en><ru>масло</ru></entry>
+  <entry><en>butter</en><ru>сливочное масло</ru></entry>
+  <entry><en>cheese</en><ru>сыр</ru></entry>
+  <entry><en>yogurt</en><ru>йогурт</ru></entry>
+  <entry><en>soup</en><ru>суп</ru></entry>
+  <entry><en>rice</en><ru>рис</ru></entry>
+  <entry><en>pasta</en><ru>паста</ru></entry>
+  <entry><en>sandwich</en><ru>сэндвич</ru></entry>
+  <entry><en>pizza</en><ru>пицца</ru></entry>
+  <entry><en>ice cream</en><ru>мороженое</ru></entry>
+  <entry><en>cake</en><ru>торт</ru></entry>
+  <entry><en>chocolate</en><ru>шоколад</ru></entry>
+  <entry><en>candy</en><ru>конфета</ru></entry>
+  <entry><en>breakfast</en><ru>завтрак</ru></entry>
+  <entry><en>lunch</en><ru>обед</ru></entry>
+  <entry><en>dinner</en><ru>ужин</ru></entry>
+  <entry><en>restaurant</en><ru>ресторан</ru></entry>
+  <entry><en>menu</en><ru>меню</ru></entry>
+  <entry><en>bill</en><ru>счёт</ru></entry>
+  <entry><en>price</en><ru>цена</ru></entry>
+  <entry><en>market</en><ru>рынок</ru></entry>
+  <!-- Часть 1: Основные глаголы (151-200) -->
+  <entry><en>to go</en><ru>идти</ru></entry>
+  <entry><en>to come</en><ru>приходить</ru></entry>
+  <entry><en>to give</en><ru>давать</ru></entry>
+  <entry><en>to take</en><ru>брать</ru></entry>
+  <entry><en>to make</en><ru>делать</ru></entry>
+  <entry><en>to know</en><ru>знать</ru></entry>
+  <entry><en>to see</en><ru>видеть</ru></entry>
+  <entry><en>to hear</en><ru>слышать</ru></entry>
+  <entry><en>to speak</en><ru>говорить</ru></entry>
+  <entry><en>to say</en><ru>сказать</ru></entry>
+
+  <!-- Часть 2: Природа (201-250) -->
+  <entry><en>sun</en><ru>солнце</ru></entry>
+  <entry><en>moon</en><ru>луна</ru></entry>
+  <entry><en>star</en><ru>звезда</ru></entry>
+  <entry><en>sky</en><ru>небо</ru></entry>
+  <entry><en>cloud</en><ru>облако</ru></entry>
+  <entry><en>rain</en><ru>дождь</ru></entry>
+  <entry><en>snow</en><ru>снег</ru></entry>
+  <entry><en>wind</en><ru>ветер</ru></entry>
+  <entry><en>storm</en><ru>буря</ru></entry>
+  <entry><en>earth</en><ru>земля</ru></entry>
+
+  <!-- Часть 3: Эмоции (251-300) -->
+  <entry><en>love</en><ru>любовь</ru></entry>
+  <entry><en>hate</en><ru>ненависть</ru></entry>
+  <entry><en>happy</en><ru>счастливый</ru></entry>
+  <entry><en>sad</en><ru>грустный</ru></entry>
+  <entry><en>angry</en><ru>злой</ru></entry>
+  <entry><en>afraid</en><ru>испуганный</ru></entry>
+  <entry><en>surprised</en><ru>удивлённый</ru></entry>
+  <entry><en>tired</en><ru>уставший</ru></entry>
+  <entry><en>excited</en><ru>взволнованный</ru></entry>
+  <entry><en>bored</en><ru>скучающий</ru></entry>
+
+  <!-- Часть 4: Городская инфраструктура (301-350) -->
+  <entry><en>hospital</en><ru>больница</ru></entry>
+  <entry><en>school</en><ru>школа</ru></entry>
+  <entry><en>university</en><ru>университет</ru></entry>
+  <entry><en>police</en><ru>полиция</ru></entry>
+  <entry><en>station</en><ru>станция</ru></entry>
+  <entry><en>airport</en><ru>аэропорт</ru></entry>
+  <entry><en>bridge</en><ru>мост</ru></entry>
+  <entry><en>road</en><ru>дорога</ru></entry>
+  <entry><en>square</en><ru>площадь</ru></entry>
+  <entry><en>park</en><ru>парк</ru></entry>
+
+  <!-- Часть 5: Профессии (351-400) -->
+  <entry><en>teacher</en><ru>учитель</ru></entry>
+  <entry><en>doctor</en><ru>врач</ru></entry>
+  <entry><en>engineer</en><ru>инженер</ru></entry>
+  <entry><en>driver</en><ru>водитель</ru></entry>
+  <entry><en>cook</en><ru>повар</ru></entry>
+  <entry><en>builder</en><ru>строитель</ru></entry>
+  <entry><en>artist</en><ru>художник</ru></entry>
+  <entry><en>musician</en><ru>музыкант</ru></entry>
+  <entry><en>writer</en><ru>писатель</ru></entry>
+  <entry><en>soldier</en><ru>солдат</ru></entry>
+
+  <!-- Часть 6: Технологии (401-450) -->
+  <entry><en>computer</en><ru>компьютер</ru></entry>
+  <entry><en>laptop</en><ru>ноутбук</ru></entry>
+  <entry><en>smartphone</en><ru>смартфон</ru></entry>
+  <entry><en>internet</en><ru>интернет</ru></entry>
+  <entry><en>website</en><ru>веб-сайт</ru></entry>
+  <entry><en>application</en><ru>приложение</ru></entry>
+  <entry><en>password</en><ru>пароль</ru></entry>
+  <entry><en>email</en><ru>эл. почта</ru></entry>
+  <entry><en>camera</en><ru>камера</ru></entry>
+  <entry><en>microphone</en><ru>микрофон</ru></entry>
+
+  <!-- Часть 7: Одежда (451-500) -->
+  <entry><en>shirt</en><ru>рубашка</ru></entry>
+  <entry><en>t-shirt</en><ru>футболка</ru></entry>
+  <entry><en>jacket</en><ru>куртка</ru></entry>
+  <entry><en>coat</en><ru>пальто</ru></entry>
+  <entry><en>dress</en><ru>платье</ru></entry>
+  <entry><en>skirt</en><ru>юбка</ru></entry>
+  <entry><en>jeans</en><ru>джинсы</ru></entry>
+  <entry><en>shoes</en><ru>обувь</ru></entry>
+  <entry><en>boots</en><ru>ботинки</ru></entry>
+  <entry><en>hat</en><ru>шляпа</ru></entry>
+  <entry><en>scarf</en><ru>шарф</ru></entry>
+  <entry><en>gloves</en><ru>перчатки</ru></entry>
+  <entry><en>socks</en><ru>носки</ru></entry>
+  <entry><en>belt</en><ru>ремень</ru></entry>
+  <entry><en>wallet</en><ru>кошелек</ru></entry>
+  <entry><en>watch</en><ru>часы</ru></entry>
+  <entry><en>jewelry</en><ru>украшения</ru></entry>
+  <entry><en>sunglasses</en><ru>солнцезащитные очки</ru></entry>
+  <entry><en>umbrella</en><ru>зонт</ru></entry>
+  <entry><en>backpack</en><ru>рюкзак</ru></entry>
+  <entry><en>purse</en><ru>сумочка</ru></entry>
+  <entry><en>glasses</en><ru>очки</ru></entry>
+  <entry><en>tie</en><ru>галстук</ru></entry>
+  <!-- Часть 8: Здоровье (501-550) -->
+  <entry><en>health</en><ru>здоровье</ru></entry>
+  <entry><en>illness</en><ru>болезнь</ru></entry>
+  <entry><en>pain</en><ru>боль</ru></entry>
+  <entry><en>fever</en><ru>температура</ru></entry>
+  <entry><en>medicine</en><ru>лекарство</ru></entry>
+  <entry><en>pill</en><ru>таблетка</ru></entry>
+  <entry><en>doctor</en><ru>врач</ru></entry>
+  <entry><en>nurse</en><ru>медсестра</ru></entry>
+  <entry><en>hospital</en><ru>больница</ru></entry>
+  <entry><en>ambulance</en><ru>скорая помощь</ru></entry>
+
+  <!-- Часть 9: Спорт (551-600) -->
+  <entry><en>sport</en><ru>спорт</ru></entry>
+  <entry><en>football</en><ru>футбол</ru></entry>
+  <entry><en>basketball</en><ru>баскетбол</ru></entry>
+  <entry><en>tennis</en><ru>теннис</ru></entry>
+  <entry><en>swimming</en><ru>плавание</ru></entry>
+  <entry><en>running</en><ru>бег</ru></entry>
+  <entry><en>training</en><ru>тренировка</ru></entry>
+  <entry><en>competition</en><ru>соревнование</ru></entry>
+  <entry><en>stadium</en><ru>стадион</ru></entry>
+  <entry><en>champion</en><ru>чемпион</ru></entry>
+
+  <!-- Часть 10: Образование (601-650) -->
+  <entry><en>education</en><ru>образование</ru></entry>
+  <entry><en>school</en><ru>школа</ru></entry>
+  <entry><en>university</en><ru>университет</ru></entry>
+  <entry><en>student</en><ru>студент</ru></entry>
+  <entry><en>teacher</en><ru>учитель</ru></entry>
+  <entry><en>lesson</en><ru>урок</ru></entry>
+  <entry><en>homework</en><ru>домашняя работа</ru></entry>
+  <entry><en>exam</en><ru>экзамен</ru></entry>
+  <entry><en>knowledge</en><ru>знание</ru></entry>
+  <entry><en>diploma</en><ru>диплом</ru></entry>
+
+  <!-- Часть 11: Погода (651-700) -->
+  <entry><en>weather</en><ru>погода</ru></entry>
+  <entry><en>sunny</en><ru>солнечно</ru></entry>
+  <entry><en>rainy</en><ru>дождливо</ru></entry>
+  <entry><en>cloudy</en><ru>облачно</ru></entry>
+  <entry><en>windy</en><ru>ветрено</ru></entry>
+  <entry><en>storm</en><ru>шторм</ru></entry>
+  <entry><en>temperature</en><ru>температура</ru></entry>
+  <entry><en>forecast</en><ru>прогноз</ru></entry>
+  <entry><en>umbrella</en><ru>зонт</ru></entry>
+  <entry><en>season</en><ru>время года</ru></entry>
+
+  <!-- Часть 12: Время (701-750) -->
+  <entry><en>time</en><ru>время</ru></entry>
+  <entry><en>second</en><ru>секунда</ru></entry>
+  <entry><en>minute</en><ru>минута</ru></entry>
+  <entry><en>hour</en><ru>час</ru></entry>
+  <entry><en>day</en><ru>день</ru></entry>
+  <entry><en>week</en><ru>неделя</ru></entry>
+  <entry><en>month</en><ru>месяц</ru></entry>
+  <entry><en>year</en><ru>год</ru></entry>
+  <entry><en>calendar</en><ru>календарь</ru></entry>
+  <entry><en>clock</en><ru>часы</ru></entry>
+
+  <!-- Часть 13: Природа (751-800) -->
+  <entry><en>nature</en><ru>природа</ru></entry>
+  <entry><en>forest</en><ru>лес</ru></entry>
+  <entry><en>mountain</en><ru>гора</ru></entry>
+  <entry><en>river</en><ru>река</ru></entry>
+  <entry><en>lake</en><ru>озеро</ru></entry>
+  <entry><en>sea</en><ru>море</ru></entry>
+  <entry><en>ocean</en><ru>океан</ru></entry>
+  <entry><en>desert</en><ru>пустыня</ru></entry>
+  <entry><en>island</en><ru>остров</ru></entry>
+  <entry><en>valley</en><ru>долина</ru></entry>
+
+  <!-- Часть 14: Животные (801-850) -->
+  <entry><en>animal</en><ru>животное</ru></entry>
+  <entry><en>dog</en><ru>собака</ru></entry>
+  <entry><en>cat</en><ru>кот</ru></entry>
+  <entry><en>bird</en><ru>птица</ru></entry>
+  <entry><en>fish</en><ru>рыба</ru></entry>
+  <entry><en>horse</en><ru>лошадь</ru></entry>
+  <entry><en>cow</en><ru>корова</ru></entry>
+  <entry><en>pig</en><ru>свинья</ru></entry>
+  <entry><en>sheep</en><ru>овца</ru></entry>
+  <entry><en>lion</en><ru>лев</ru></entry>
+  <entry><en>tiger</en><ru>тигр</ru></entry>
+  <entry><en>elephant</en><ru>слон</ru></entry>
+  <entry><en>monkey</en><ru>обезьяна</ru></entry>
+  <entry><en>bear</en><ru>медведь</ru></entry>
+  <entry><en>wolf</en><ru>волк</ru></entry>
+  <entry><en>rabbit</en><ru>кролик</ru></entry>
+  <entry><en>deer</en><ru>олень</ru></entry>
+  <entry><en>fox</en><ru>лис</ru></entry>
+  <entry><en>squirrel</en><ru>белка</ru></entry>
+  <entry><en>mouse</en><ru>мышь</ru></entry>
+  <entry><en>snake</en><ru>змея</ru></entry>
+  <entry><en>frog</en><ru>лягушка</ru></entry>
+  <entry><en>insect</en><ru>насекомое</ru></entry>
+  <entry><en>spider</en><ru>паук</ru></entry>
+  <entry><en>ant</en><ru>муравей</ru></entry>
+  <entry><en>bee</en><ru>пчела</ru></entry>
+  <entry><en>butterfly</en><ru>бабочка</ru></entry>
+
+  <entry><en>fish</en><ru>рыба</ru></entry>
+  <entry><en>shark</en><ru>акула</ru></entry>
+  <entry><en>whale</en><ru>кит</ru></entry>
+  <entry><en>dolphin</en><ru>дельфин</ru></entry>
+  <entry><en>octopus</en><ru>осьминог</ru></entry>
+  <entry><en>crab</en><ru>краб</ru></entry>
+  <entry><en>lobster</en><ru>омар</ru></entry>
+  <entry><en>shellfish</en><ru>моллюск</ru></entry>
+  <entry><en>coral</en><ru>коралл</ru></entry>
+  <entry><en>seaweed</en><ru>морская капуста</ru></entry>
+  <entry><en>plankton</en><ru>планктон</ru></entry>
+  <entry><en>algae</en><ru>водоросли</ru></entry>
+  <entry><en>crustacean</en><ru>ракообразное</ru></entry>
+  <entry><en>jellyfish</en><ru>медуза</ru></entry>
+  <entry><en>starfish</en><ru>морская звезда</ru></entry>
+  <entry><en>seahorse</en><ru>морской конёк</ru></entry>
+  <entry><en>seal</en><ru>тюлень</ru></entry>
+  <entry><en>penguin</en><ru>пингвин</ru></entry>
+  <entry><en>otter</en><ru>выдра</ru></entry> 
+  <entry><en>crane</en><ru>журавль</ru></entry>
+  <entry><en>eagle</en><ru>орёл</ru></entry>
+  <entry><en>hawk</en><ru>ястреб</ru></entry>
+  <entry><en>falcon</en><ru>сокол</ru></entry>
+  <entry><en>vulture</en><ru>гриф</ru></entry>
+  <entry><en>parakeet</en><ru>попугайчик</ru></entry>
+  <entry><en>canary</en><ru>канарейка</ru></entry>
+  <entry><en>finch</en><ru>щегол</ru></entry>
+  <entry><en>robin</en><ru>малиновка</ru></entry>
+  <entry><en>woodpecker</en><ru>дятел</ru></entry>
+  <entry><en>owl</en><ru>сова</ru></entry>
+  <entry><en>parrot</en><ru>попугай</ru></entry>
+  <entry><en>canary</en><ru>канарейка</ru></entry>
+  <entry><en>pigeon</en><ru>голубь</ru></entry>
+  <entry><en>sparrow</en><ru>воробей</ru></entry>
+  <!-- Часть 15: Профессии (851-900) -->
+  <entry><en>accountant</en><ru>бухгалтер</ru></entry>
+  <entry><en>actor</en><ru>актёр</ru></entry>
+  <entry><en>architect</en><ru>архитектор</ru></entry>
+  <entry><en>artist</en><ru>художник</ru></entry>
+  <entry><en>astronaut</en><ru>космонавт</ru></entry>
+  <entry><en>athlete</en><ru>атлет</ru></entry>
+  <entry><en>baker</en><ru>пекарь</ru></entry>
+  <entry><en>barber</en><ru>парикмахер</ru></entry>
+  <entry><en>biologist</en><ru>биолог</ru></entry>
+  <entry><en>butcher</en><ru>мясник</ru></entry>
+
+  <!-- Часть 16: Техника (901-950) -->
+  <entry><en>engine</en><ru>двигатель</ru></entry>
+  <entry><en>gadget</en><ru>гаджет</ru></entry>
+  <entry><en>robot</en><ru>робот</ru></entry>
+  <entry><en>drone</en><ru>дрон</ru></entry>
+  <entry><en>laser</en><ru>лазер</ru></entry>
+  <entry><en>sensor</en><ru>датчик</ru></entry>
+  <entry><en>circuit</en><ru>микросхема</ru></entry>
+  <entry><en>wire</en><ru>провод</ru></entry>
+  <entry><en>screen</en><ru>экран</ru></entry>
+  <entry><en>processor</en><ru>процессор</ru></entry>
+
+  <!-- Часть 17: Кулинария (951-1000) -->
+  <entry><en>recipe</en><ru>рецепт</ru></entry>
+  <entry><en>ingredient</en><ru>ингредиент</ru></entry>
+  <entry><en>spice</en><ru>специя</ru></entry>
+  <entry><en>flavor</en><ru>вкус</ru></entry>
+  <entry><en>grill</en><ru>гриль</ru></entry>
+  <entry><en>fry</en><ru>жарить</ru></entry>
+  <entry><en>boil</en><ru>варить</ru></entry>
+  <entry><en>slice</en><ru>ломтик</ru></entry>
+  <entry><en>dough</en><ru>тесто</ru></entry>
+  <entry><en>cuisine</en><ru>кухня</ru></entry>
+
+  <!-- Часть 18: Наука (1001-1050) -->
+  <entry><en>biology</en><ru>биология</ru></entry>
+  <entry><en>chemistry</en><ru>химия</ru></entry>
+  <entry><en>physics</en><ru>физика</ru></entry>
+  <entry><en>experiment</en><ru>эксперимент</ru></entry>
+  <entry><en>microscope</en><ru>микроскоп</ru></entry>
+  <entry><en>theory</en><ru>теория</ru></entry>
+  <entry><en>research</en><ru>исследование</ru></entry>
+  <entry><en>discovery</en><ru>открытие</ru></entry>
+  <entry><en>scientist</en><ru>учёный</ru></entry>
+  <entry><en>laboratory</en><ru>лаборатория</ru></entry>
+
+  <!-- Часть 19: Искусство (1051-1100) -->
+  <entry><en>painting</en><ru>живопись</ru></entry>
+  <entry><en>sculpture</en><ru>скульптура</ru></entry>
+  <entry><en>music</en><ru>музыка</ru></entry>
+  <entry><en>theater</en><ru>театр</ru></entry>
+  <entry><en>cinema</en><ru>кино</ru></entry>
+  <entry><en>exhibition</en><ru>выставка</ru></entry>
+  <entry><en>gallery</en><ru>галерея</ru></entry>
+  <entry><en>creative</en><ru>творческий</ru></entry>
+  <entry><en>performance</en><ru>представление</ru></entry>
+  <entry><en>masterpiece</en><ru>шедевр</ru></entry>
+
+  <!-- Часть 20: Путешествия (1101-1150) -->
+  <entry><en>passport</en><ru>паспорт</ru></entry>
+  <entry><en>visa</en><ru>виза</ru></entry>
+  <entry><en>suitcase</en><ru>чемодан</ru></entry>
+  <entry><en>hotel</en><ru>отель</ru></entry>
+  <entry><en>reservation</en><ru>бронирование</ru></entry>
+  <entry><en>tourist</en><ru>турист</ru></entry>
+  <entry><en>guide</en><ru>гид</ru></entry>
+  <entry><en>map</en><ru>карта</ru></entry>
+  <entry><en>souvenir</en><ru>сувенир</ru></entry>
+  <entry><en>adventure</en><ru>приключение</ru></entry>
+  <entry><en>trip</en><ru>поездка</ru></entry>
+  <entry><en>flight</en><ru>рейс</ru></entry>
+  <entry><en>destination</en><ru>пункт назначения</ru></entry>
+  <entry><en>tour</en><ru>тур</ru></entry>
+  <entry><en>explore</en><ru>исследовать</ru></entry>
+  <entry><en>culture</en><ru>культура</ru></entry>
+  <entry><en>tradition</en><ru>традиция</ru></entry>
+  <entry><en>language</en><ru>язык</ru></entry>
+  <entry><en>customs</en><ru>обычаи</ru></entry>
+  <entry><en>experience</en><ru>опыт</ru></entry>
+  <entry><en>advice</en><ru>совет</ru></entry>
+  <entry><en>transportation</en><ru>транспорт</ru></entry>
+  <entry><en>bus</en><ru>автобус</ru></entry>
+  <entry><en>train</en><ru>поезд</ru></entry>
+  <entry><en>car</en><ru>машина</ru></entry>
+  <entry><en>bicycle</en><ru>велосипед</ru></entry>
+
+  <!-- Часть 21: Бизнес (1151-1200) -->
+  <entry><en>profit</en><ru>прибыль</ru></entry>
+  <entry><en>loss</en><ru>убыток</ru></entry>
+  <entry><en>contract</en><ru>контракт</ru></entry>
+  <entry><en>meeting</en><ru>встреча</ru></entry>
+  <entry><en>salary</en><ru>зарплата</ru></entry>
+  <entry><en>deadline</en><ru>срок</ru></entry>
+  <entry><en>client</en><ru>клиент</ru></entry>
+  <entry><en>competitor</en><ru>конкурент</ru></entry>
+  <entry><en>investment</en><ru>инвестиция</ru></entry>
+  <entry><en>strategy</en><ru>стратегия</ru></entry>
+
+  <!-- Часть 22: IT (1201-1250) -->
+  <entry><en>algorithm</en><ru>алгоритм</ru></entry>
+  <entry><en>database</en><ru>база данных</ru></entry>
+  <entry><en>firewall</en><ru>брандмауэр</ru></entry>
+  <entry><en>framework</en><ru>фреймворк</ru></entry>
+  <entry><en>debugging</en><ru>отладка</ru></entry>
+  <entry><en>encryption</en><ru>шифрование</ru></entry>
+  <entry><en>bandwidth</en><ru>пропускная способность</ru></entry>
+  <entry><en>cache</en><ru>кэш</ru></entry>
+  <entry><en>compiler</en><ru>компилятор</ru></entry>
+  <entry><en>syntax</en><ru>синтаксис</ru></entry>
+
+  <!-- Часть 23: Медицина (1251-1300) -->
+  <entry><en>symptom</en><ru>симптом</ru></entry>
+  <entry><en>diagnosis</en><ru>диагноз</ru></entry>
+  <entry><en>prescription</en><ru>рецепт</ru></entry>
+  <entry><en>surgery</en><ru>операция</ru></entry>
+  <entry><en>vaccine</en><ru>вакцина</ru></entry>
+  <entry><en>allergy</en><ru>аллергия</ru></entry>
+  <entry><en>antibiotic</en><ru>антибиотик</ru></entry>
+  <entry><en>fracture</en><ru>перелом</ru></entry>
+  <entry><en>injection</en><ru>инъекция</ru></entry>
+  <entry><en>recovery</en><ru>выздоровление</ru></entry>
+
+  <!-- Часть 24: Юриспруденция (1301-1350) -->
+  <entry><en>law</en><ru>закон</ru></entry>
+  <entry><en>court</en><ru>суд</ru></entry>
+  <entry><en>judge</en><ru>судья</ru></entry>
+  <entry><en>lawsuit</en><ru>иск</ru></entry>
+  <entry><en>evidence</en><ru>доказательство</ru></entry>
+  <entry><en>verdict</en><ru>вердикт</ru></entry>
+  <entry><en>witness</en><ru>свидетель</ru></entry>
+  <entry><en>contract</en><ru>договор</ru></entry>
+  <entry><en>liability</en><ru>ответственность</ru></entry>
+  <entry><en>notary</en><ru>нотариус</ru></entry>
+
+  <!-- Часть 25: Автомобили (1351-1400) -->
+  <entry><en>engine</en><ru>двигатель</ru></entry>
+  <entry><en>transmission</en><ru>трансмиссия</ru></entry>
+  <entry><en>brakes</en><ru>тормоза</ru></entry>
+  <entry><en>battery</en><ru>аккумулятор</ru></entry>
+  <entry><en>headlights</en><ru>фары</ru></entry>
+  <entry><en>tire</en><ru>шина</ru></entry>
+  <entry><en>dashboard</en><ru>приборная панель</ru></entry>
+  <entry><en>odometer</en><ru>одометр</ru></entry>
+  <entry><en>insurance</en><ru>страховка</ru></entry>
+  <entry><en>registration</en><ru>регистрация</ru></entry>
+
+  <!-- Часть 26: Спорт (1401-1450) -->
+  <entry><en>goalkeeper</en><ru>вратарь</ru></entry>
+  <entry><en>referee</en><ru>судья</ru></entry>
+  <entry><en>penalty</en><ru>пенальти</ru></entry>
+  <entry><en>tournament</en><ru>турнир</ru></entry>
+  <entry><en>championship</en><ru>чемпионат</ru></entry>
+  <entry><en>doping</en><ru>допинг</ru></entry>
+  <entry><en>stadium</en><ru>стадион</ru></entry>
+  <entry><en>coach</en><ru>тренер</ru></entry>
+  <entry><en>trophy</en><ru>трофей</ru></entry>
+  <entry><en>record</en><ru>рекорд</ru></entry>
+
+  <!-- Часть 27: Музыка (1451-1500) -->
+  <entry><en>melody</en><ru>мелодия</ru></entry>
+  <entry><en>rhythm</en><ru>ритм</ru></entry>
+  <entry><en>harmony</en><ru>гармония</ru></entry>
+  <entry><en>chorus</en><ru>припев</ru></entry>
+  <entry><en>verse</en><ru>куплет</ru></entry>
+  <entry><en>concert</en><ru>концерт</ru></entry>
+  <entry><en>rehearsal</en><ru>репетиция</ru></entry>
+  <entry><en>symphony</en><ru>симфония</ru></entry>
+  <entry><en>orchestra</en><ru>оркестр</ru></entry>
+  <entry><en>composer</en><ru>композитор</ru></entry>
+
+  <!-- Часть 28: Кино (1501-1550) -->
+  <entry><en>screenplay</en><ru>сценарий</ru></entry>
+  <entry><en>director</en><ru>режиссер</ru></entry>
+  <entry><en>producer</en><ru>продюсер</ru></entry>
+  <entry><en>actor</en><ru>актер</ru></entry>
+  <entry><en>actress</en><ru>актриса</ru></entry>
+  <entry><en>special effects</en><ru>спецэффекты</ru></entry>
+  <entry><en>premiere</en><ru>премьера</ru></entry>
+  <entry><en>genre</en><ru>жанр</ru></entry>
+  <entry><en>subtitles</en><ru>субтитры</ru></entry>
+  <entry><en>box office</en><ru>кассовые сборы</ru></entry>
+
+  <!-- Часть 29: Литература (1551-1600) -->
+  <entry><en>novel</en><ru>роман</ru></entry>
+  <entry><en>poetry</en><ru>поэзия</ru></entry>
+  <entry><en>metaphor</en><ru>метафора</ru></entry>
+  <entry><en>publisher</en><ru>издатель</ru></entry>
+  <entry><en>best-seller</en><ru>бестселлер</ru></entry>
+  <entry><en>manuscript</en><ru>рукопись</ru></entry>
+  <entry><en>fiction</en><ru>художественная литература</ru></entry>
+  <entry><en>non-fiction</en><ru>нон-фикшн</ru></entry>
+  <entry><en>biography</en><ru>биография</ru></entry>
+  <entry><en>plagiarism</en><ru>плагиат</ru></entry>
+
+  <!-- Часть 30: Психология (1601-1650) -->
+  <entry><en>consciousness</en><ru>сознание</ru></entry>
+  <entry><en>subconscious</en><ru>подсознание</ru></entry>
+  <entry><en>behavior</en><ru>поведение</ru></entry>
+  <entry><en>therapy</en><ru>терапия</ru></entry>
+  <entry><en>phobia</en><ru>фобия</ru></entry>
+  <entry><en>stress</en><ru>стресс</ru></entry>
+  <entry><en>motivation</en><ru>мотивация</ru></entry>
+  <entry><en>intelligence</en><ru>интеллект</ru></entry>
+  <entry><en>perception</en><ru>восприятие</ru></entry>
+  <entry><en>neurosis</en><ru>невроз</ru></entry>
+  <entry><en>psychosis</en><ru>психоз</ru></entry>
+  <entry><en>mental health</en><ru>психическое здоровье</ru></entry>
+  <entry><en>therapy</en><ru>терапия</ru></entry>
+  <entry><en>counseling</en><ru>консультирование</ru></entry>
+  <entry><en>psychotherapy</en><ru>психотерапия</ru></entry>
+  <entry><en>behavioral therapy</en><ru>поведенческая терапия</ru></entry>
+  <entry><en>cognitive therapy</en><ru>когнитивная терапия</ru></entry>
+  <entry><en>group therapy</en><ru>групповая терапия  </ru></entry>
+  <entry><en>family therapy</en><ru>семейная терапия</ru></entry> 
+  <entry><en>depression</en><ru>депрессия</ru></entry>
+  <entry><en>anxiety</en><ru>тревога</ru></entry>
+  <entry><en>cognition</en><ru>познание</ru></entry>
+  <entry><en>emotion</en><ru>эмоция</ru></entry>
+  <entry><en>personality</en><ru>личность</ru></entry>
+  <entry><en>identity</en><ru>идентичность</ru></entry>
+  <entry><en>self-esteem</en><ru>самооценка</ru></entry>
+  <entry><en>resilience</en><ru>устойчивость</ru></entry>
+  <entry><en>mindfulness</en><ru>осознанность</ru></entry>
+  <entry><en>empathy</en><ru>эмпатия</ru></entry>
+  <!-- Часть 31: Политика (1651-1700) -->
+  <entry><en>democracy</en><ru>демократия</ru></entry>
+  <entry><en>election</en><ru>выборы</ru></entry>
+  <entry><en>government</en><ru>правительство</ru></entry>
+  <entry><en>policy</en><ru>политика</ru></entry>
+  <entry><en>corruption</en><ru>коррупция</ru></entry>
+  <entry><en>diplomacy</en><ru>дипломатия</ru></entry>
+  <entry><en>sanctions</en><ru>санкции</ru></entry>
+  <entry><en>treaty</en><ru>договор</ru></entry>
+  <entry><en>summit</en><ru>саммит</ru></entry>
+  <entry><en>embassy</en><ru>посольство</ru></entry>
+
+  <!-- Часть 32: Религия (1701-1750) -->
+  <entry><en>faith</en><ru>вера</ru></entry>
+  <entry><en>prayer</en><ru>молитва</ru></entry>
+  <entry><en>temple</en><ru>храм</ru></entry>
+  <entry><en>sacred</en><ru>священный</ru></entry>
+  <entry><en>ritual</en><ru>ритуал</ru></entry>
+  <entry><en>soul</en><ru>душа</ru></entry>
+  <entry><en>heaven</en><ru>рай</ru></entry>
+  <entry><en>hell</en><ru>ад</ru></entry>
+  <entry><en>prophet</en><ru>пророк</ru></entry>
+  <entry><en>doctrine</en><ru>учение</ru></entry>
+
+  <!-- Часть 33: Мода (1751-1800) -->
+  <entry><en>trend</en><ru>тренд</ru></entry>
+  <entry><en>outfit</en><ru>наряд</ru></entry>
+  <entry><en>accessory</en><ru>аксессуар</ru></entry>
+  <entry><en>fabric</en><ru>ткань</ru></entry>
+  <entry><en>designer</en><ru>дизайнер</ru></entry>
+  <entry><en>runway</en><ru>подиум</ru></entry>
+  <entry><en>cosmetics</en><ru>косметика</ru></entry>
+  <entry><en>perfume</en><ru>парфюм</ru></entry>
+  <entry><en>luxury</en><ru>роскошь</ru></entry>
+  <entry><en>vintage</en><ru>винтаж</ru></entry>
+
+  <!-- Часть 34: Сельское хозяйство (1801-1850) -->
+  <entry><en>harvest</en><ru>урожай</ru></entry>
+  <entry><en>tractor</en><ru>трактор</ru></entry>
+  <entry><en>fertilizer</en><ru>удобрение</ru></entry>
+  <entry><en>irrigation</en><ru>орошение</ru></entry>
+  <entry><en>livestock</en><ru>скот</ru></entry>
+  <entry><en>barn</en><ru>амбар</ru></entry>
+  <entry><en>crop</en><ru>культура</ru></entry>
+  <entry><en>organic</en><ru>органический</ru></entry>
+  <entry><en>pesticide</en><ru>пестицид</ru></entry>
+  <entry><en>greenhouse</en><ru>теплица</ru></entry>
+
+  <!-- Часть 35: Военное дело (1851-1900) -->
+  <entry><en>strategy</en><ru>стратегия</ru></entry>
+  <entry><en>tactics</en><ru>тактика</ru></entry>
+  <entry><en>artillery</en><ru>артиллерия</ru></entry>
+  <entry><en>infantry</en><ru>пехота</ru></entry>
+  <entry><en>reconnaissance</en><ru>разведка</ru></entry>
+  <entry><en>ammunition</en><ru>боеприпасы</ru></entry>
+  <entry><en>barracks</en><ru>казармы</ru></entry>
+  <entry><en>general</en><ru>генерал</ru></entry>
+  <entry><en>colonel</en><ru>полковник</ru></entry>
+  <entry><en>veteran</en><ru>ветеран</ru></entry>
+
+  <!-- Часть 36: Философия (1901-1950) -->
+  <entry><en>reason</en><ru>разум</ru></entry>
+  <entry><en>ethics</en><ru>этика</ru></entry>
+  <entry><en>logic</en><ru>логика</ru></entry>
+  <entry><en>theory</en><ru>теория</ru></entry>
+  <entry><en>paradox</en><ru>парадокс</ru></entry>
+  <entry><en>consciousness</en><ru>сознание</ru></entry>
+  <entry><en>existentialism</en><ru>экзистенциализм</ru></entry>
+  <entry><en>dialectics</en><ru>диалектика</ru></entry>
+  <entry><en>nirvana</en><ru>нирвана</ru></entry>
+  <entry><en>utopia</en><ru>утопия</ru></entry>
+
+  <!-- Часть 37: Космос (1951-2000) -->
+  <entry><en>galaxy</en><ru>галактика</ru></entry>
+  <entry><en>comet</en><ru>комета</ru></entry>
+  <entry><en>asteroid</en><ru>астероид</ru></entry>
+  <entry><en>spaceship</en><ru>космический корабль</ru></entry>
+  <entry><en>orbit</en><ru>орбита</ru></entry>
+  <entry><en>satellite</en><ru>спутник</ru></entry>
+  <entry><en>black hole</en><ru>черная дыра</ru></entry>
+  <entry><en>cosmonaut</en><ru>космонавт</ru></entry>
+  <entry><en>telescope</en><ru>телескоп</ru></entry>
+  <entry><en>universe</en><ru>вселенная</ru></entry>
+
+  <!-- Часть 38: Дополнительные глаголы (2001-2050) -->
+  <entry><en>to analyze</en><ru>анализировать</ru></entry>
+  <entry><en>to calculate</en><ru>вычислять</ru></entry>
+  <entry><en>to cooperate</en><ru>сотрудничать</ru></entry>
+  <entry><en>to demonstrate</en><ru>демонстрировать</ru></entry>
+  <entry><en>to evaluate</en><ru>оценивать</ru></entry>
+  <entry><en>to function</en><ru>функционировать</ru></entry>
+  <entry><en>to guarantee</en><ru>гарантировать</ru></entry>
+  <entry><en>to highlight</en><ru>подчеркивать</ru></entry>
+  <entry><en>to illustrate</en><ru>иллюстрировать</ru></entry>
+  <entry><en>to jeopardize</en><ru>ставить под угрозу</ru></entry>
+
+  <!-- Часть 39: Прилагательные (2051-2100) -->
+  <entry><en>ambiguous</en><ru>двусмысленный</ru></entry>
+  <entry><en>brilliant</en><ru>блестящий</ru></entry>
+  <entry><en>cautious</en><ru>осторожный</ru></entry>
+  <entry><en>diligent</en><ru>усердный</ru></entry>
+  <entry><en>eccentric</en><ru>эксцентричный</ru></entry>
+  <entry><en>fragile</en><ru>хрупкий</ru></entry>
+  <entry><en>gigantic</en><ru>гигантский</ru></entry>
+  <entry><en>hazardous</en><ru>опасный</ru></entry>
+  <entry><en>innovative</en><ru>инновационный</ru></entry>
+  <entry><en>juvenile</en><ru>юношеский</ru></entry>
+
+  <!-- Часть 40: Наречия (2101-2150) -->
+  <entry><en>absolutely</en><ru>абсолютно</ru></entry>
+  <entry><en>barely</en><ru>едва</ru></entry>
+  <entry><en>consequently</en><ru>следовательно</ru></entry>
+  <entry><en>deliberately</en><ru>намеренно</ru></entry>
+  <entry><en>eventually</en><ru>в конечном итоге</ru></entry>
+  <entry><en>frequently</en><ru>часто</ru></entry>
+  <entry><en>gradually</en><ru>постепенно</ru></entry>
+  <entry><en>horizontally</en><ru>горизонтально</ru></entry>
+  <entry><en>instantly</en><ru>мгновенно</ru></entry>
+  <entry><en>jointly</en><ru>совместно</ru></entry>
+  <entry><en>keenly</en><ru>остро</ru></entry>
+  <entry><en>logically</en><ru>логически</ru></entry>
+  <entry><en>mysteriously</en><ru>таинственно</ru></entry>
+  <entry><en>naturally</en><ru>естественно</ru></entry>
+  <entry><en>obviously</en><ru>очевидно</ru></entry>
+  <entry><en>precisely</en><ru>точно</ru></entry>
+  <entry><en>quickly</en><ru>быстро</ru></entry>
+  <entry><en>readily</en><ru>охотно</ru></entry>
+  <entry><en>safely</en><ru>безопасно</ru></entry>
+  <entry><en>thoroughly</en><ru>тщательно</ru></entry>
+  <!-- Часть 41: Экономика (2151-2200) -->
+  <entry><en>inflation</en><ru>инфляция</ru></entry>
+  <entry><en>recession</en><ru>рецессия</ru></entry>
+  <entry><en>currency</en><ru>валюта</ru></entry>
+  <entry><en>stock</en><ru>акция</ru></entry>
+  <entry><en>bond</en><ru>облигация</ru></entry>
+  <entry><en>dividend</en><ru>дивиденд</ru></entry>
+  <entry><en>market</en><ru>рынок</ru></entry>
+  <entry><en>supply</en><ru>предложение</ru></entry>
+  <entry><en>demand</en><ru>спрос</ru></entry>
+  <entry><en>trade</en><ru>торговля</ru></entry>
+
+  <!-- Часть 42: Математика (2201-2250) -->
+  <entry><en>equation</en><ru>уравнение</ru></entry>
+  <entry><en>theorem</en><ru>теорема</ru></entry>
+  <entry><en>geometry</en><ru>геометрия</ru></entry>
+  <entry><en>algebra</en><ru>алгебра</ru></entry>
+  <entry><en>calculus</en><ru>математический анализ</ru></entry>
+  <entry><en>probability</en><ru>вероятность</ru></entry>
+  <entry><en>statistics</en><ru>статистика</ru></entry>
+  <entry><en>fraction</en><ru>дробь</ru></entry>
+  <entry><en>decimal</en><ru>десятичная дробь</ru></entry>
+  <entry><en>percentage</en><ru>процент</ru></entry>
+
+  <!-- Часть 43: Химия (2251-2300) -->
+  <entry><en>element</en><ru>элемент</ru></entry>
+  <entry><en>compound</en><ru>соединение</ru></entry>
+  <entry><en>reaction</en><ru>реакция</ru></entry>
+  <entry><en>molecule</en><ru>молекула</ru></entry>
+  <entry><en>atom</en><ru>атом</ru></entry>
+  <entry><en>acid</en><ru>кислота</ru></entry>
+  <entry><en>base</en><ru>основание</ru></entry>
+  <entry><en>solution</en><ru>раствор</ru></entry>
+  <entry><en>catalyst</en><ru>катализатор</ru></entry>
+  <entry><en>synthesis</en><ru>синтез</ru></entry>
+
+  <!-- Часть 44: География (2301-2350) -->
+  <entry><en>continent</en><ru>континент</ru></entry>
+  <entry><en>ocean</en><ru>океан</ru></entry>
+  <entry><en>latitude</en><ru>широта</ru></entry>
+  <entry><en>longitude</en><ru>долгота</ru></entry>
+  <entry><en>climate</en><ru>климат</ru></entry>
+  <entry><en>ecosystem</en><ru>экосистема</ru></entry>
+  <entry><en>plateau</en><ru>плато</ru></entry>
+  <entry><en>peninsula</en><ru>полуостров</ru></entry>
+  <entry><en>archipelago</en><ru>архипелаг</ru></entry>
+  <entry><en>tundra</en><ru>тундра</ru></entry>
+
+  <!-- Часть 45: Астрономия (2351-2400) -->
+  <entry><en>planet</en><ru>планета</ru></entry>
+  <entry><en>star</en><ru>звезда</ru></entry>
+  <entry><en>nebula</en><ru>туманность</ru></entry>
+  <entry><en>constellation</en><ru>созвездие</ru></entry>
+  <entry><en>supernova</en><ru>сверхновая</ru></entry>
+  <entry><en>eclipse</en><ru>затмение</ru></entry>
+  <entry><en>meteor</en><ru>метеор</ru></entry>
+  <entry><en>gravity</en><ru>гравитация</ru></entry>
+  <entry><en>orbit</en><ru>орбита</ru></entry>
+  <entry><en>cosmos</en><ru>космос</ru></entry>
+
+  <!-- Часть 46: Биология (2401-2450) -->
+  <entry><en>cell</en><ru>клетка</ru></entry>
+  <entry><en>dna</en><ru>ДНК</ru></entry>
+  <entry><en>gene</en><ru>ген</ru></entry>
+  <entry><en>evolution</en><ru>эволюция</ru></entry>
+  <entry><en>species</en><ru>вид</ru></entry>
+  <entry><en>photosynthesis</en><ru>фотосинтез</ru></entry>
+  <entry><en>respiration</en><ru>дыхание</ru></entry>
+  <entry><en>mutation</en><ru>мутация</ru></entry>
+  <entry><en>habitat</en><ru>среда обитания</ru></entry>
+  <entry><en>biodiversity</en><ru>биоразнообразие</ru></entry>
+
+  <!-- Часть 47: Физика (2451-2500) -->
+  <entry><en>energy</en><ru>энергия</ru></entry>
+  <entry><en>force</en><ru>сила</ru></entry>
+  <entry><en>velocity</en><ru>скорость</ru></entry>
+  <entry><en>acceleration</en><ru>ускорение</ru></entry>
+  <entry><en>quantum</en><ru>квант</ru></entry>
+  <entry><en>relativity</en><ru>относительность</ru></entry>
+  <entry><en>particle</en><ru>частица</ru></entry>
+  <entry><en>wave</en><ru>волна</ru></entry>
+  <entry><en>thermodynamics</en><ru>термодинамика</ru></entry>
+  <entry><en>entropy</en><ru>энтропия</ru></entry>
+
+  <!-- Часть 48: Лингвистика (2501-2550) -->
+  <entry><en>phonetics</en><ru>фонетика</ru></entry>
+  <entry><en>syntax</en><ru>синтаксис</ru></entry>
+  <entry><en>semantics</en><ru>семантика</ru></entry>
+  <entry><en>morphology</en><ru>морфология</ru></entry>
+  <entry><en>etymology</en><ru>этимология</ru></entry>
+  <entry><en>dialect</en><ru>диалект</ru></entry>
+  <entry><en>bilingual</en><ru>двуязычный</ru></entry>
+  <entry><en>translation</en><ru>перевод</ru></entry>
+  <entry><en>idiom</en><ru>идиома</ru></entry>
+  <entry><en>accent</en><ru>акцент</ru></entry>
+
+  <!-- Часть 49: Психология (2551-2600) -->
+  <entry><en>cognition</en><ru>познание</ru></entry>
+  <entry><en>perception</en><ru>восприятие</ru></entry>
+  <entry><en>memory</en><ru>память</ru></entry>
+  <entry><en>intelligence</en><ru>интеллект</ru></entry>
+  <entry><en>emotion</en><ru>эмоция</ru></entry>
+  <entry><en>behavior</en><ru>поведение</ru></entry>
+  <entry><en>therapy</en><ru>терапия</ru></entry>
+  <entry><en>neurosis</en><ru>невроз</ru></entry>
+  <entry><en>psychosis</en><ru>психоз</ru></entry>
+  <entry><en>meditation</en><ru>медитация</ru></entry>
+
+  <!-- Часть 50: Социология (2601-2650) -->
+  <entry><en>society</en><ru>общество</ru></entry>
+  <entry><en>culture</en><ru>культура</ru></entry>
+  <entry><en>norm</en><ru>норма</ru></entry>
+  <entry><en>value</en><ru>ценность</ru></entry>
+  <entry><en>role</en><ru>роль</ru></entry>
+  <entry><en>institution</en><ru>институт</ru></entry>
+  <entry><en>stratification</en><ru>стратификация</ru></entry>
+  <entry><en>mobility</en><ru>мобильность</ru></entry>
+  <entry><en>discrimination</en><ru>дискриминация</ru></entry>
+  <entry><en>globalization</en><ru>глобализация</ru></entry>
+
+  <!-- Часть 51: Антропология (2651-2700) -->
+  <entry><en>artifact</en><ru>артефакт</ru></entry>
+  <entry><en>ritual</en><ru>ритуал</ru></entry>
+  <entry><en>kinship</en><ru>родство</ru></entry>
+  <entry><en>myth</en><ru>миф</ru></entry>
+  <entry><en>taboo</en><ru>табу</ru></entry>
+  <entry><en>civilization</en><ru>цивилизация</ru></entry>
+  <entry><en>nomad</en><ru>кочевник</ru></entry>
+  <entry><en>tribe</en><ru>племя</ru></entry>
+  <entry><en>archaeology</en><ru>археология</ru></entry>
+  <entry><en>evolution</en><ru>эволюция</ru></entry>
+
+  <!-- Часть 52: Экология (2701-2750) -->
+  <entry><en>sustainability</en><ru>устойчивость</ru></entry>
+  <entry><en>pollution</en><ru>загрязнение</ru></entry>
+  <entry><en>conservation</en><ru>сохранение</ru></entry>
+  <entry><en>recycling</en><ru>переработка</ru></entry>
+  <entry><en>ecosystem</en><ru>экосистема</ru></entry>
+  <entry><en>biodiversity</en><ru>биоразнообразие</ru></entry>
+  <entry><en>deforestation</en><ru>вырубка лесов</ru></entry>
+  <entry><en>carbon</en><ru>углерод</ru></entry>
+  <entry><en>emission</en><ru>выброс</ru></entry>
+  <entry><en>renewable</en><ru>возобновляемый</ru></entry>
+
+  <!-- Часть 53: Медицина (2751-2800) -->
+  <entry><en>diagnosis</en><ru>диагноз</ru></entry>
+  <entry><en>treatment</en><ru>лечение</ru></entry>
+  <entry><en>symptom</en><ru>симптом</ru></entry>
+  <entry><en>vaccine</en><ru>вакцина</ru></entry>
+  <entry><en>antibiotic</en><ru>антибиотик</ru></entry>
+  <entry><en>surgery</en><ru>операция</ru></entry>
+  <entry><en>rehabilitation</en><ru>реабилитация</ru></entry>
+  <entry><en>epidemic</en><ru>эпидемия</ru></entry>
+  <entry><en>pandemic</en><ru>пандемия</ru></entry>
+  <entry><en>immunity</en><ru>иммунитет</ru></entry>
+
+  <!-- Часть 54: Технологии (2801-2850) -->
+  <entry><en>innovation</en><ru>инновация</ru></entry>
+  <entry><en>blockchain</en><ru>блокчейн</ru></entry>
+  <entry><en>algorithm</en><ru>алгоритм</ru></entry>
+  <entry><en>artificial intelligence</en><ru>искусственный интеллект</ru></entry>
+  <entry><en>virtual reality</en><ru>виртуальная реальность</ru></entry>
+  <entry><en>nanotechnology</en><ru>нанотехнология</ru></entry>
+  <entry><en>biotechnology</en><ru>биотехнология</ru></entry>
+  <entry><en>robotics</en><ru>робототехника</ru></entry>
+  <entry><en>automation</en><ru>автоматизация</ru></entry>
+  <entry><en>cybersecurity</en><ru>кибербезопасность</ru></entry>
+  <entry><en>cloud computing</en><ru>облачные вычисления</ru></entry>
+  <!-- Часть 55: Искусство (2851-2900) -->
+  <entry><en>painting</en><ru>живопись</ru></entry>
+  <entry><en>sculpture</en><ru>скульптура</ru></entry>
+  <entry><en>photography</en><ru>фотография</ru></entry>
+  <entry><en>installation</en><ru>инсталляция</ru></entry>
+  <entry><en>performance art</en><ru>перформанс</ru></entry>
+  <entry><en>abstract art</en><ru>абстрактное искусство</ru></entry>
+  <entry><en>impressionism</en><ru>импрессионизм</ru></entry>
+  <entry><en>modern art</en><ru>современное искусство</ru></entry>
+  <entry><en>gallery</en><ru>галерея</ru></entry>
+  <entry><en>exhibition</en><ru>выставка</ru></entry>
+  <entry><en>critique</en><ru>критика</ru></entry>
+  <!-- Часть 55: Основные технологические термины (2851-2900) -->
+  <entry><en>algorithm</en><ru>алгоритм</ru></entry>
+  <entry><en>application</en><ru>приложение</ru></entry>
+  <entry><en>authentication</en><ru>аутентификация</ru></entry>
+  <entry><en>bandwidth</en><ru>пропускная способность</ru></entry>
+  <entry><en>binary</en><ru>двоичный</ru></entry>
+  <entry><en>blockchain</en><ru>блокчейн</ru></entry>
+  <entry><en>botnet</en><ru>ботнет</ru></entry>
+  <entry><en>broadband</en><ru>широкополосный</ru></entry>
+  <entry><en>browser</en><ru>браузер</ru></entry>
+  <entry><en>cache</en><ru>кэш</ru></entry>
+
+  <!-- Часть 56: Искусственный интеллект (2901-2950) -->
+  <entry><en>machine learning</en><ru>машинное обучение</ru></entry>
+  <entry><en>neural network</en><ru>нейронная сеть</ru></entry>
+  <entry><en>deep learning</en><ru>глубокое обучение</ru></entry>
+  <entry><en>computer vision</en><ru>компьютерное зрение</ru></entry>
+  <entry><en>natural language processing</en><ru>обработка естественного языка</ru></entry>
+  <entry><en>training dataset</en><ru>обучающий набор данных</ru></entry>
+  <entry><en>inference</en><ru>вывод</ru></entry>
+  <entry><en>overfitting</en><ru>переобучение</ru></entry>
+  <entry><en>reinforcement learning</en><ru>обучение с подкреплением</ru></entry>
+  <entry><en>generative adversarial network</en><ru>генеративно-состязательная сеть</ru></entry>
+
+  <!-- Часть 57: Кибербезопасность (2951-3000) -->
+  <entry><en>encryption</en><ru>шифрование</ru></entry>
+  <entry><en>firewall</en><ru>брандмауэр</ru></entry>
+  <entry><en>malware</en><ru>вредоносное ПО</ru></entry>
+  <entry><en>phishing</en><ru>фишинг</ru></entry>
+  <entry><en>ransomware</en><ru>программа-вымогатель</ru></entry>
+  <entry><en>vulnerability</en><ru>уязвимость</ru></entry>
+  <entry><en>penetration testing</en><ru>тестирование на проникновение</ru></entry>
+  <entry><en>two-factor authentication</en><ru>двухфакторная аутентификация</ru></entry>
+  <entry><en>zero-day exploit</en><ru>эксплойт нулевого дня</ru></entry>
+  <entry><en>sandbox</en><ru>песочница</ru></entry>
+
+  <!-- Часть 58: Облачные технологии (3001-3050) -->
+  <entry><en>cloud computing</en><ru>облачные вычисления</ru></entry>
+  <entry><en>infrastructure as a service</en><ru>инфраструктура как услуга</ru></entry>
+  <entry><en>platform as a service</en><ru>платформа как услуга</ru></entry>
+  <entry><en>software as a service</en><ru>программное обеспечение как услуга</ru></entry>
+  <entry><en>virtual machine</en><ru>виртуальная машина</ru></entry>
+  <entry><en>load balancing</en><ru>балансировка нагрузки</ru></entry>
+  <entry><en>containerization</en><ru>контейнеризация</ru></entry>
+  <entry><en>microservices</en><ru>микросервисы</ru></entry>
+  <entry><en>serverless</en><ru>бессерверный</ru></entry>
+  <entry><en>edge computing</en><ru>периферийные вычисления</ru></entry>
+
+  <!-- Часть 59: Интернет вещей (3051-3100) -->
+  <entry><en>internet of things</en><ru>интернет вещей</ru></entry>
+  <entry><en>smart device</en><ru>умное устройство</ru></entry>
+  <entry><en>sensor</en><ru>датчик</ru></entry>
+  <entry><en>actuator</en><ru>актуатор</ru></entry>
+  <entry><en>gateway</en><ru>шлюз</ru></entry>
+  <entry><en>mqtt</en><ru>MQTT</ru></entry>
+  <entry><en>zigbee</en><ru>Zigbee</ru></entry>
+  <entry><en>lpwan</en><ru>LPWAN</ru></entry>
+  <entry><en>digital twin</en><ru>цифровой двойник</ru></entry>
+  <entry><en>predictive maintenance</en><ru>прогнозируемое обслуживание</ru></entry>
+
+  <!-- Часть 60: Большие данные (3101-3150) -->
+  <entry><en>big data</en><ru>большие данные</ru></entry>
+  <entry><en>data mining</en><ru>анализ данных</ru></entry>
+  <entry><en>data warehouse</en><ru>хранилище данных</ru></entry>
+  <entry><en>data lake</en><ru>озеро данных</ru></entry>
+  <entry><en>mapreduce</en><ru>MapReduce</ru></entry>
+  <entry><en>hadoop</en><ru>Hadoop</ru></entry>
+  <entry><en>spark</en><ru>Spark</ru></entry>
+  <entry><en>etl</en><ru>ETL</ru></entry>
+  <entry><en>business intelligence</en><ru>бизнес-аналитика</ru></entry>
+  <entry><en>data visualization</en><ru>визуализация данных</ru></entry>
+
+  <!-- Часть 61: Разработка ПО (3151-3200) -->
+  <entry><en>agile</en><ru>гибкая методология</ru></entry>
+  <entry><en>scrum</en><ru>Scrum</ru></entry>
+  <entry><en>kanban</en><ru>Канбан</ru></entry>
+  <entry><en>version control</en><ru>контроль версий</ru></entry>
+  <entry><en>git</en><ru>Git</ru></entry>
+  <entry><en>continuous integration</en><ru>непрерывная интеграция</ru></entry>
+  <entry><en>devops</en><ru>DevOps</ru></entry>
+  <entry><en>code review</en><ru>ревью кода</ru></entry>
+  <entry><en>unit testing</en><ru>модульное тестирование</ru></entry>
+  <entry><en>debugging</en><ru>отладка</ru></entry>
+
+  <!-- Часть 62: Веб-разработка (3201-3250) -->
+  <entry><en>html</en><ru>HTML</ru></entry>
+  <entry><en>css</en><ru>CSS</ru></entry>
+  <entry><en>javascript</en><ru>JavaScript</ru></entry>
+  <entry><en>responsive design</en><ru>адаптивный дизайн</ru></entry>
+  <entry><en>single page application</en><ru>одностраничное приложение</ru></entry>
+  <entry><en>rest api</en><ru>REST API</ru></entry>
+  <entry><en>graphql</en><ru>GraphQL</ru></entry>
+  <entry><en>webassembly</en><ru>WebAssembly</ru></entry>
+  <entry><en>progressive web app</en><ru>прогрессивное веб-приложение</ru></entry>
+  <entry><en>web components</en><ru>веб-компоненты</ru></entry>
+
+  <!-- Часть 63: Мобильная разработка (3251-3300) -->
+  <entry><en>android</en><ru>Android</ru></entry>
+  <entry><en>ios</en><ru>iOS</ru></entry>
+  <entry><en>flutter</en><ru>Flutter</ru></entry>
+  <entry><en>react native</en><ru>React Native</ru></entry>
+  <entry><en>kotlin</en><ru>Kotlin</ru></entry>
+  <entry><en>swift</en><ru>Swift</ru></entry>
+  <entry><en>cross-platform</en><ru>кроссплатформенный</ru></entry>
+  <entry><en>app store</en><ru>App Store</ru></entry>
+  <entry><en>google play</en><ru>Google Play</ru></entry>
+  <entry><en>push notification</en><ru>push-уведомление</ru></entry>
+
+  <!-- Часть 64: Игровые технологии (3301-3350) -->
+  <entry><en>game engine</en><ru>игровой движок</ru></entry>
+  <entry><en>unity</en><ru>Unity</ru></entry>
+  <entry><en>unreal engine</en><ru>Unreal Engine</ru></entry>
+  <entry><en>virtual reality</en><ru>виртуальная реальность</ru></entry>
+  <entry><en>augmented reality</en><ru>дополненная реальность</ru></entry>
+  <entry><en>physics engine</en><ru>физический движок</ru></entry>
+  <entry><en>ray tracing</en><ru>трассировка лучей</ru></entry>
+  <entry><en>shader</en><ru>шейдер</ru></entry>
+  <entry><en>multiplayer</en><ru>мультиплеер</ru></entry>
+  <entry><en>esports</en><ru>киберспорт</ru></entry>
+
+  <!-- Часть 65: Аппаратное обеспечение (3351-3400) -->
+  <entry><en>processor</en><ru>процессор</ru></entry>
+  <entry><en>gpu</en><ru>графический процессор</ru></entry>
+  <entry><en>motherboard</en><ru>материнская плата</ru></entry>
+  <entry><en>ram</en><ru>оперативная память</ru></entry>
+  <entry><en>ssd</en><ru>SSD</ru></entry>
+  <entry><en>cooling system</en><ru>система охлаждения</ru></entry>
+  <entry><en>peripheral</en><ru>периферийное устройство</ru></entry>
+  <entry><en>quantum computer</en><ru>квантовый компьютер</ru></entry>
+  <entry><en>fpga</en><ru>ПЛИС</ru></entry>
+  <entry><en>raspberry pi</en><ru>Raspberry Pi</ru></entry>
+
+  <!-- Часть 66: Сети и телекоммуникации (3401-3450) -->
+  <entry><en>5g</en><ru>5G</ru></entry>
+  <entry><en>wi-fi 6</en><ru>Wi-Fi 6</ru></entry>
+  <entry><en>bluetooth</en><ru>Bluetooth</ru></entry>
+  <entry><en>tcp/ip</en><ru>TCP/IP</ru></entry>
+  <entry><en>vpn</en><ru>VPN</ru></entry>
+  <entry><en>cdn</en><ru>CDN</ru></entry>
+  <entry><en>latency</en><ru>задержка</ru></entry>
+  <entry><en>bandwidth</en><ru>пропускная способность</ru></entry>
+  <entry><en>packet loss</en><ru>потеря пакетов</ru></entry>
+  <entry><en>network topology</en><ru>топология сети</ru></entry>
+
+  <!-- Часть 67: Будущие технологии (3451-3500) -->
+  <entry><en>quantum computing</en><ru>квантовые вычисления</ru></entry>
+  <entry><en>nanorobotics</en><ru>наноробототехника</ru></entry>
+  <entry><en>brain-computer interface</en><ru>интерфейс мозг-компьютер</ru></entry>
+  <entry><en>fusion energy</en><ru>термоядерная энергия</ru></entry>
+  <entry><en>space tourism</en><ru>космический туризм</ru></entry>
+  <entry><en>autonomous vehicles</en><ru>автономные транспортные средства</ru></entry>
+  <entry><en>smart cities</en><ru>умные города</ru></entry>
+  <entry><en>bioprinting</en><ru>биопечать</ru></entry>
+  <entry><en>metaverse</en><ru>метавселенная</ru></entry>
+  <entry><en>transhumanism</en><ru>трансгуманизм</ru></entry>
+
+  <!-- Часть 68: Технологические компании (3501-3550) -->
+  <entry><en>startup</en><ru>стартап</ru></entry>
+  <entry><en>unicorn</en><ru>единорог</ru></entry>
+  <entry><en>venture capital</en><ru>венчурный капитал</ru></entry>
+  <entry><en>accelerator</en><ru>акселератор</ru></entry>
+  <entry><en>incubator</en><ru>инкубатор</ru></entry>
+  <entry><en>crowdfunding</en><ru>краудфандинг</ru></entry>
+  <entry><en>ipo</en><ru>IPO</ru></entry>
+  <entry><en>merger</en><ru>слияние</ru></entry>
+  <entry><en>acquisition</en><ru>поглощение</ru></entry>
+  <entry><en>disruptive technology</en><ru>прорывная технология</ru></entry>
+  <entry><en>artificial intelligence</en><ru>искусственный интеллект</ru></entry>
+  <entry><en>machine learning</en><ru>машинное обучение</ru></entry>
+  <entry><en>data science</en><ru>наука о данных</ru></entry>
+  <entry><en>cloud computing</en><ru>облачные вычисления</ru></entry>
+  <entry><en>blockchain technology</en><ru>технология блокчейн</ru></entry>
+  <entry><en>cybersecurity</en><ru>кибербезопасность</ru></entry>
+  <entry><en>internet of things</en><ru>интернет вещей</ru></entry>
+  <entry><en>augmented reality</en><ru>дополненная реальность</ru></entry>
+  <entry><en>virtual reality</en><ru>виртуальная реальность</ru></entry>
+
+
+  <!-- Часть 69: Веб-технологии (3551-3600) -->
+  <entry><en>frontend</en><ru>фронтенд</ru></entry>
+  <entry><en>backend</en><ru>бэкенд</ru></entry>
+  <entry><en>fullstack</en><ru>фулстек</ru></entry>
+  <entry><en>dom</en><ru>DOM</ru></entry>
+  <entry><en>ajax</en><ru>AJAX</ru></entry>
+  <entry><en>json</en><ru>JSON</ru></entry>
+  <entry><en>xml</en><ru>XML</ru></entry>
+  <entry><en>websocket</en><ru>WebSocket</ru></entry>
+  <entry><en>webgl</en><ru>WebGL</ru></entry>
+  <entry><en>service worker</en><ru>сервис-воркер</ru></entry>
+
+  <!-- Часть 70: Базы данных (3601-3650) -->
+  <entry><en>relational database</en><ru>реляционная база данных</ru></entry>
+  <entry><en>nosql</en><ru>NoSQL</ru></entry>
+  <entry><en>mongodb</en><ru>MongoDB</ru></entry>
+  <entry><en>postgresql</en><ru>PostgreSQL</ru></entry>
+  <entry><en>mysql</en><ru>MySQL</ru></entry>
+  <entry><en>index</en><ru>индекс</ru></entry>
+  <entry><en>query optimization</en><ru>оптимизация запросов</ru></entry>
+  <entry><en>orm</en><ru>ORM</ru></entry>
+  <entry><en>acid</en><ru>ACID</ru></entry>
+  <entry><en>replication</en><ru>репликация</ru></entry>
+
+  <!-- Часть 71: Операционные системы (3651-3700) -->
+  <entry><en>kernel</en><ru>ядро</ru></entry>
+  <entry><en>shell</en><ru>оболочка</ru></entry>
+  <entry><en>process</en><ru>процесс</ru></entry>
+  <entry><en>thread</en><ru>поток</ru></entry>
+  <entry><en>scheduler</en><ru>планировщик</ru></entry>
+  <entry><en>virtual memory</en><ru>виртуальная память</ru></entry>
+  <entry><en>file system</en><ru>файловая система</ru></entry>
+  <entry><en>driver</en><ru>драйвер</ru></entry>
+  <entry><en>daemon</en><ru>демон</ru></entry>
+  <entry><en>container</en><ru>контейнер</ru></entry>
+
+  <!-- Часть 72: Программирование (3701-3750) -->
+  <entry><en>variable</en><ru>переменная</ru></entry>
+  <entry><en>function</en><ru>функция</ru></entry>
+  <entry><en>class</en><ru>класс</ru></entry>
+  <entry><en>object</en><ru>объект</ru></entry>
+  <entry><en>inheritance</en><ru>наследование</ru></entry>
+  <entry><en>polymorphism</en><ru>полиморфизм</ru></entry>
+  <entry><en>abstraction</en><ru>абстракция</ru></entry>
+  <entry><en>interface</en><ru>интерфейс</ru></entry>
+  <entry><en>recursion</en><ru>рекурсия</ru></entry>
+  <entry><en>algorithm</en><ru>алгоритм</ru></entry>
+
+  <!-- Часть 73: Криптография (3751-3800) -->
+  <entry><en>asymmetric encryption</en><ru>асимметричное шифрование</ru></entry>
+  <entry><en>public key</en><ru>публичный ключ</ru></entry>
+  <entry><en>private key</en><ru>приватный ключ</ru></entry>
+  <entry><en>digital signature</en><ru>цифровая подпись</ru></entry>
+  <entry><en>hash function</en><ru>хэш-функция</ru></entry>
+  <entry><en>salt</en><ru>соль</ru></entry>
+  <entry><en>ssl/tls</en><ru>SSL/TLS</ru></entry>
+  <entry><en>certificate authority</en><ru>центр сертификации</ru></entry>
+  <entry><en>elliptic curve</en><ru>эллиптическая кривая</ru></entry>
+  <entry><en>quantum cryptography</en><ru>квантовая криптография</ru></entry>
+
+  <!-- Часть 74: Виртуализация (3801-3850) -->
+  <entry><en>hypervisor</en><ru>гипервизор</ru></entry>
+  <entry><en>vm</en><ru>виртуальная машина</ru></entry>
+  <entry><en>paravirtualization</en><ru>паравиртуализация</ru></entry>
+  <entry><en>docker</en><ru>Docker</ru></entry>
+  <entry><en>kubernetes</en><ru>Kubernetes</ru></entry>
+  <entry><en>orchestration</en><ru>оркестрация</ru></entry>
+  <entry><en>namespace</en><ru>пространство имен</ru></entry>
+  <entry><en>cluster</en><ru>кластер</ru></entry>
+  <entry><en>load balancing</en><ru>балансировка нагрузки</ru></entry>
+  <entry><en>auto-scaling</en><ru>автомасштабирование</ru></entry>
+
+  <!-- Часть 75: Тестирование (3851-3900) -->
+  <entry><en>unit test</en><ru>модульный тест</ru></entry>
+  <entry><en>integration test</en><ru>интеграционный тест</ru></entry>
+  <entry><en>end-to-end test</en><ru>сквозной тест</ru></entry>
+  <entry><en>regression test</en><ru>регрессионный тест</ru></entry>
+  <entry><en>mock</en><ru>мок</ru></entry>
+  <entry><en>stub</en><ru>стаб</ru></entry>
+  <entry><en>test coverage</en><ru>покрытие тестами</ru></entry>
+  <entry><en>ci/cd</en><ru>CI/CD</ru></entry>
+  <entry><en>selenium</en><ru>Selenium</ru></entry>
+  <entry><en>jmeter</en><ru>JMeter</ru></entry>
+
+  <!-- Часть 76: UI/UX (3901-3950) -->
+  <entry><en>user interface</en><ru>пользовательский интерфейс</ru></entry>
+  <entry><en>user experience</en><ru>пользовательский опыт</ru></entry>
+  <entry><en>wireframe</en><ru>вайрфрейм</ru></entry>
+  <entry><en>prototype</en><ru>прототип</ru></entry>
+  <entry><en>responsive design</en><ru>адаптивный дизайн</ru></entry>
+  <entry><en>material design</en><ru>материальный дизайн</ru></entry>
+  <entry><en>accessibility</en><ru>доступность</ru></entry>
+  <entry><en>usability</en><ru>удобство использования</ru></entry>
+  <entry><en>a/b testing</en><ru>A/B-тестирование</ru></entry>
+  <entry><en>heatmap</en><ru>тепловая карта</ru></entry>
+
+  <!-- Часть 77: Аналитика (3951-4000) -->
+  <entry><en>metrics</en><ru>метрики</ru></entry>
+  <entry><en>kpi</en><ru>KPI</ru></entry>
+  <entry><en>dashboard</en><ru>дашборд</ru></entry>
+  <entry><en>segmentation</en><ru>сегментация</ru></entry>
+  <entry><en>funnel</en><ru>воронка</ru></entry>
+  <entry><en>retention</en><ru>удержание</ru></entry>
+  <entry><en>conversion</en><ru>конверсия</ru></entry>
+  <entry><en>roi</en><ru>ROI</ru></entry>
+  <entry><en>predictive analytics</en><ru>прогнозная аналитика</ru></entry>
+  <entry><en>data mining</en><ru>анализ данных</ru></entry>
+
+  <!-- Часть 78: DevOps (4001-4050) -->
+  <entry><en>infrastructure as code</en><ru>инфраструктура как код</ru></entry>
+  <entry><en>configuration management</en><ru>управление конфигурацией</ru></entry>
+  <entry><en>monitoring</en><ru>мониторинг</ru></entry>
+  <entry><en>logging</en><ru>логирование</ru></entry>
+  <entry><en>alerting</en><ru>оповещение</ru></entry>
+  <entry><en>incident management</en><ru>управление инцидентами</ru></entry>
+  <entry><en>chaos engineering</en><ru>хаос-инжиниринг</ru></entry>
+  <entry><en>gitops</en><ru>GitOps</ru></entry>
+  <entry><en>site reliability engineering</en><ru>инжиниринг надежности сайтов</ru></entry>
+  <entry><en>observability</en><ru>наблюдаемость</ru></entry>
+
+  <!-- Часть 79: Компьютерная графика (4051-4100) -->
+  <entry><en>raster graphics</en><ru>растровая графика</ru></entry>
+  <entry><en>vector graphics</en><ru>векторная графика</ru></entry>
+  <entry><en>ray tracing</en><ru>трассировка лучей</ru></entry>
+  <entry><en>shader</en><ru>шейдер</ru></entry>
+  <entry><en>texture</en><ru>текстура</ru></entry>
+  <entry><en>polygon</en><ru>полигон</ru></entry>
+  <entry><en>vertex</en><ru>вершина</ru></entry>
+  <entry><en>fragment</en><ru>фрагмент</ru></entry>
+  <entry><en>anti-aliasing</en><ru>сглаживание</ru></entry>
+  <entry><en>voxel</en><ru>воксель</ru></entry>
+
+  <!-- Часть 80: Технологии связи (4101-4150) -->
+  <entry><en>voip</en><ru>VoIP</ru></entry>
+  <entry><en>sip</en><ru>SIP</ru></entry>
+  <entry><en>webrtc</en><ru>WebRTC</ru></entry>
+  <entry><en>4g</en><ru>4G</ru></entry>
+  <entry><en>lte</en><ru>LTE</ru></entry>
+  <entry><en>fiber optics</en><ru>оптоволокно</ru></entry>
+  <entry><en>modem</en><ru>модем</ru></entry>
+  <entry><en>router</en><ru>роутер</ru></entry>
+  <entry><en>switch</en><ru>свитч</ru></entry>
+  <entry><en>nat</en><ru>NAT</ru></entry>
+
+  <!-- Часть 81: Технологии хранения (4151-4200) -->
+  <entry><en>raid</en><ru>RAID</ru></entry>
+  <entry><en>nas</en><ru>NAS</ru></entry>
+  <entry><en>san</en><ru>SAN</ru></entry>
+  <entry><en>object storage</en><ru>объектное хранилище</ru></entry>
+  <entry><en>block storage</en><ru>блочное хранилище</ru></entry>
+  <entry><en>file storage</en><ru>файловое хранилище</ru></entry>
+  <entry><en>tape drive</en><ru>ленточный накопитель</ru></entry>
+  <entry><en>optical disc</en><ru>оптический диск</ru></entry>
+  <entry><en>flash memory</en><ru>флеш-память</ru></entry>
+  <entry><en>cloud storage</en><ru>облачное хранилище</ru></entry>
+
+  <!-- Часть 82: Технологии печати (4201-4250) -->
+  <entry><en>3d printing</en><ru>3D-печать</ru></entry>
+  <entry><en>sla</en><ru>SLA</ru></entry>
+  <entry><en>fdm</en><ru>FDM</ru></entry>
+  <entry><en>sintering</en><ru>спекание</ru></entry>
+  <entry><en>support material</en><ru>поддерживающий материал</ru></entry>
+  <entry><en>extruder</en><ru>экструдер</ru></entry>
+  <entry><en>bed leveling</en><ru>выравнивание стола</ru></entry>
+  <entry><en>g-code</en><ru>G-код</ru></entry>
+  <entry><en>overhang</en><ru>свес</ru></entry>
+  <entry><en>infill</en><ru>заполнение</ru></entry>
+  <entry><en>filament</en><ru>филамент</ru></entry>
+  <!-- Часть 83: Технологии безопасности (4251-4300) -->
+  <entry><en>firewall</en><ru>брандмауэр</ru></entry>
+  <entry><en>antivirus</en><ru>антивирус</ru></entry>
+  <entry><en>intrusion detection system</en><ru>система обнаружения вторжений</ru></entry>
+  <entry><en>penetration testing</en><ru>тестирование на проникновение</ru></entry>
+  <entry><en>security patch</en><ru>безопасный патч</ru></entry>
+  <entry><en>vulnerability assessment</en><ru>оценка уязвимостей</ru></entry>
+  <entry><en>social engineering</en><ru>социальная инженерия</ru></entry>
+  <entry><en>data breach</en><ru>утечка данных</ru></entry>
+  <entry><en>cyber attack</en><ru>кибер-атака</ru></entry>
+  <entry><en>incident response</en><ru>реагирование на инциденты</ru></entry>
+
+  <!-- Часть 84: Экологические технологии (4301-4350) -->
+  <entry><en>sustainability</en><ru>устойчивое развитие</ru></entry>
+  <entry><en>renewable energy</en><ru>возобновляемая энергия</ru></entry>
+  <entry><en>solar power</en><ru>солнечная энергия</ru></entry>
+  <entry><en>wind energy</en><ru>ветровая энергия</ru></entry>
+  <entry><en>battery technology</en><ru>технология аккумуляторов</ru></entry>
+  <entry><en>sustainable agriculture</en><ru>устойчивая сельское хозяйство</ru></entry>
+  <entry><en>waste management</en><ru>управление отходами</ru></entry>
+  <entry><en>carbon footprint</en><ru>углеродный след</ru></entry>
+  <entry><en>green technology</en><ru>зеленая технология</ru></entry>
+  <entry><en>circular economy</en><ru>круговая экономика</ru></entry>
+  <!-- Общий жаргон (1-100) -->
+  <entry><en>boilerplate</en><ru>шаблонный код (много повторяющегося кода)</ru></entry>
+  <entry><en>spaghetti code</en><ru>спагетти-код (запутанный код)</ru></entry>
+  <entry><en>yak shaving</en><ru>як-шейвинг (решение побочных проблем для решения основной)</ru></entry>
+  <entry><en>heisenbug</en><ru>гейзенбаг (баг, который исчезает при попытке его исследовать)</ru></entry>
+  <entry><en>bikeshedding</en><ru>обсуждение тривиальных деталей (пока важные вопросы игнорируются)</ru></entry>
+  <entry><en>rubber ducking</en><ru>объяснение проблемы резиновой уточке (метод дебаггинга)</ru></entry>
+  <entry><en>brutal coding</en><ru>грубое программирование (без изящества, но работает)</ru></entry>
+  <entry><en>cowboy coding</en><ru>ковбойское программирование (без плана и процессов)</ru></entry>
+  <entry><en>dogfooding</en><ru>использование своего же продукта (букв. "есть свою собачью еду")</ru></entry>
+  <entry><en>glue code</en><ru>клей-код (код, соединяющий разные компоненты)</ru></entry>
+
+  <!-- Баги и проблемы (101-200) -->
+  <entry><en>bug</en><ru>баг (ошибка в программе)</ru></entry>
+  <entry><en>feature</en><ru>фича (иронично о баге, который представили как фичу)</ru></entry>
+  <entry><en>race condition</en><ru>гонка (ошибка многопоточности)</ru></entry>
+  <entry><en>memory leak</en><ru>утечка памяти</ru></entry>
+  <entry><en>segfault</en><ru>сегфолт (ошибка сегментации)</ru></entry>
+  <entry><en>null pointer</en><ru>нулевой указатель</ru></entry>
+  <entry><en>stack overflow</en><ru>переполнение стека</ru></entry>
+  <entry><en>infinite loop</en><ru>бесконечный цикл</ru></entry>
+  <entry><en>off-by-one</en><ru>ошибка на единицу</ru></entry>
+  <entry><en>edge case</en><ru>крайний случай</ru></entry>
+
+  <!-- Процессы разработки (201-300) -->
+  <entry><en>scrum</en><ru>скрам (методология)</ru></entry>
+  <entry><en>sprint</en><ru>спринт (итерация разработки)</ru></entry>
+  <entry><en>standup</en><ru>стендап (ежедневная встреча)</ru></entry>
+  <entry><en>retro</en><ru>ретроспектива</ru></entry>
+  <entry><en>backlog</en><ru>беклог (список задач)</ru></entry>
+  <entry><en>grooming</en><ru>груминг (уточнение задач)</ru></entry>
+  <entry><en>blocker</en><ru>блокер (препятствие)</ru></entry>
+  <entry><en>unblock</en><ru>разблокировать</ru></entry>
+  <entry><en>tech debt</en><ru>технический долг</ru></entry>
+  <entry><en>refactoring</en><ru>рефакторинг</ru></entry>
+
+  <!-- Версионный контроль (301-400) -->
+  <entry><en>commit</en><ru>коммит (фиксация изменений)</ru></entry>
+  <entry><en>push</en><ru>пуш (отправка изменений)</ru></entry>
+  <entry><en>pull</en><ru>пул (загрузка изменений)</ru></entry>
+  <entry><en>merge</en><ru>мерж (слияние веток)</ru></entry>
+  <entry><en>rebase</en><ru>ребейз (перебазирование)</ru></entry>
+  <entry><en>cherry-pick</en><ru>черри-пик (выборочное применение коммита)</ru></entry>
+  <entry><en>fork</en><ru>форк (ответвление проекта)</ru></entry>
+  <entry><en>branch</en><ru>ветка</ru></entry>
+  <entry><en>master</en><ru>мастер (главная ветка)</ru></entry>
+  <entry><en>HEAD</en><ru>HEAD (указатель на текущий коммит)</ru></entry>
+
+  <!-- Тестирование (401-500) -->
+  <entry><en>unit test</en><ru>юнит-тест</ru></entry>
+  <entry><en>mock</en><ru>мок (заглушка)</ru></entry>
+  <entry><en>stub</en><ru>стаб (заглушка)</ru></entry>
+  <entry><en>fixture</en><ru>фикстура (тестовые данные)</ru></entry>
+  <entry><en>coverage</en><ru>покрытие (тестами)</ru></entry>
+  <entry><en>regression</en><ru>регрессия</ru></entry>
+  <entry><en>flaky test</en><ru>ненадежный тест (то проходит, то нет)</ru></entry>
+  <entry><en>smoke test</en><ru>дымовой тест (базовая проверка)</ru></entry>
+  <entry><en>e2e</en><ru>end-to-end (сквозное тестирование)</ru></entry>
+  <entry><en>tdd</en><ru>test-driven development (разработка через тестирование)</ru></entry>
+
+  <!-- Веб-разработка (501-600) -->
+  <entry><en>callback hell</en><ru>ад колбэков</ru></entry>
+  <entry><en>div soup</en><ru>див-суп (много вложенных div'ов)</ru></entry>
+  <entry><en>responsive</en><ru>отзывчивый (дизайн)</ru></entry>
+  <entry><en>above the fold</en><ru>контент "выше сгиба" (видимый без прокрутки)</ru></entry>
+  <entry><en>polyfill</en><ru>полифилл (заполнение пробелов в поддержке браузеров)</ru></entry>
+  <entry><en>shim</en><ru>шим (адаптер для совместимости)</ru></entry>
+  <entry><en>cors</en><ru>CORS (межсайтовые запросы)</ru></entry>
+  <entry><en>jsonp</en><ru>JSONP (устаревший метод кросс-доменных запросов)</ru></entry>
+  <entry><en>dom</en><ru>DOM (объектная модель документа)</ru></entry>
+  <entry><en>virtual dom</en><ru>виртуальный DOM</ru></entry>
+
+  <!-- Базы данных (601-700) -->
+  <entry><en>orm</en><ru>ORM (объектно-реляционное отображение)</ru></entry>
+  <entry><en>n+1 problem</en><ru>проблема N+1 запросов</ru></entry>
+  <entry><en>migration</en><ru>миграция (изменение структуры БД)</ru></entry>
+  <entry><en>seed</en><ru>сидирование (заполнение БД тестовыми данными)</ru></entry>
+  <entry><en>index</en><ru>индекс</ru></entry>
+  <entry><en>join</en><ru>джойн (соединение таблиц)</ru></entry>
+  <entry><en>transaction</en><ru>транзакция</ru></entry>
+  <entry><en>deadlock</en><ru>взаимная блокировка</ru></entry>
+  <entry><en>sharding</en><ru>шардинг (горизонтальное разделение БД)</ru></entry>
+  <entry><en>replication</en><ru>репликация</ru></entry>
+
+  <!-- Операционные системы (701-800) -->
+  <entry><en>fork bomb</en><ru>форк-бомба</ru></entry>
+  <entry><en>zombie process</en><ru>зомби-процесс</ru></entry>
+  <entry><en>daemon</en><ru>демон (фоновый процесс)</ru></entry>
+  <entry><en>kernel panic</en><ru>паника ядра</ru></entry>
+  <entry><en>blue screen</en><ru>синий экран</ru></entry>
+  <entry><en>segfault</en><ru>сегфолт (ошибка сегментации)</ru></entry>
+  <entry><en>sysadmin</en><ru>сисадмин</ru></entry>
+  <entry><en>root</en><ru>рут (суперпользователь)</ru></entry>
+  <entry><en>sudo</en><ru>судо (выполнение от имени root)</ru></entry>
+  <entry><en>rm -rf</en><ru>опасная команда удаления</ru></entry>
+
+  <!-- Сетевой жаргон (801-900) -->
+  <entry><en>ping</en><ru>пинг (проверка доступности)</ru></entry>
+  <entry><en>traceroute</en><ru>трассировка маршрута</ru></entry>
+  <entry><en>latency</en><ru>латентность (задержка)</ru></entry>
+  <entry><en>throughput</en><ru>пропускная способность</ru></entry>
+  <entry><en>packet loss</en><ru>потеря пакетов</ru></entry>
+  <entry><en>ddos</en><ru>DDoS (атака на отказ в обслуживании)</ru></entry>
+  <entry><en>mitm</en><ru>атака "человек посередине"</ru></entry>
+  <entry><en>vpn</en><ru>VPN (виртуальная частная сеть)</ru></entry>
+  <entry><en>nat</en><ru>NAT (трансляция сетевых адресов)</ru></entry>
+  <entry><en>dhcp</en><ru>DHCP (протокол динамической конфигурации)</ru></entry>
+
+  <!-- Хардкорные термины (901-1000) -->
+  <entry><en>pointer arithmetic</en><ru>арифметика указателей</ru></entry>
+  <entry><en>memory corruption</en><ru>повреждение памяти</ru></entry>
+  <entry><en>stack smashing</en><ru>разрушение стека</ru></entry>
+  <entry><en>heap overflow</en><ru>переполнение кучи</ru></entry>
+  <entry><en>buffer overflow</en><ru>переполнение буфера</ru></entry>
+  <entry><en>undefined behavior</en><ru>неопределенное поведение</ru></entry>
+  <entry><en>race condition</en><ru>гонка (многопоточная ошибка)</ru></entry>
+  <entry><en>deadlock</en><ru>взаимная блокировка</ru></entry>
+  <entry><en>livelock</en><ru>активная блокировка</ru></entry>
+  <entry><en>priority inversion</en><ru>инверсия приоритетов</ru></entry>
+
+  <!-- Ироничные термины (1001-1100) -->
+  <entry><en>magic</en><ru>магия (непонятный, но работающий код)</ru></entry>
+  <entry><en>hack</en><ru>хак (быстрое и грязное решение)</ru></entry>
+  <entry><en>kludge</en><ru>костыль</ru></entry>
+  <entry><en>job security</en><ru>гарантия занятости (намеренно сложный код)</ru></entry>
+  <entry><en>duct tape</en><ru>изолента (временное решение)</ru></entry>
+  <entry><en>yak shaving</en><ru>бритье яка (решение побочных проблем)</ru></entry>
+  <entry><en>bikeshedding</en><ru>обсуждение сарая для велосипедов (тривиальные детали)</ru></entry>
+  <entry><en>ninja</en><ru>ниндзя (опытный разработчик)</ru></entry>
+  <entry><en>rockstar</en><ru>рок-звезда (разработчик-звезда)</ru></entry>
+  <entry><en>unicorn</en><ru>единорог (редкий специалист)</ru></entry>
+
+  <!-- Новые технологии (1101-1200) -->
+  <entry><en>blockchain</en><ru>блокчейн</ru></entry>
+  <entry><en>smart contract</en><ru>смарт-контракт</ru></entry>
+  <entry><en>nft</en><ru>NFT (невзаимозаменяемый токен)</ru></entry>
+  <entry><en>web3</en><ru>Web3 (децентрализованный интернет)</ru></entry>
+  <entry><en>metaverse</en><ru>метавселенная</ru></entry>
+  <entry><en>ai</en><ru>ИИ (искусственный интеллект)</ru></entry>
+  <entry><en>ml</en><ru>ML (машинное обучение)</ru></entry>
+  <entry><en>llm</en><ru>LLM (большая языковая модель)</ru></entry>
+  <entry><en>quantum computing</en><ru>квантовые вычисления</ru></entry>
+  <entry><en>iot</en><ru>IoT (интернет вещей)</ru></entry>
+
+  <!-- Игровой жаргон (1201-1300) -->
+  <entry><en>lag</en><ru>лаг (задержка)</ru></entry>
+  <entry><en>fps</en><ru>FPS (кадры в секунду)</ru></entry>
+  <entry><en>hitbox</en><ru>хитбокс (зона столкновения)</ru></entry>
+  <entry><en>nerf</en><ru>нерф (ослабление в патче)</ru></entry>
+  <entry><en>buff</en><ru>бафф (усиление в патче)</ru></entry>
+  <entry><en>respawn</en><ru>респаун (возрождение)</ru></entry>
+  <entry><en>grinding</en><ru>гринд (монотонное выполнение действий)</ru></entry>
+  <entry><en>afk</en><ru>AFK (отошел от клавиатуры)</ru></entry>
+  <entry><en>gg</en><ru>GG (хорошая игра)</ru></entry>
+  <entry><en>noob</en><ru>нуб (новичок)</ru></entry>
+
+  <!-- Мемные выражения (1301-1400) -->
+  <entry><en>it works on my machine</en><ru>у меня работает</ru></entry>
+  <entry><en>not a bug, it's a feature</en><ru>это не баг, это фича</ru></entry>
+  <entry><en>have you tried turning it off and on again</en><ru>вы пробовали выключить и включить?</ru></entry>
+  <entry><en>works for me</en><ru>у меня работает</ru></entry>
+  <entry><en>who touched my code</en><ru>кто трогал мой код?</ru></entry>
+  <entry><en>that's not how it works</en><ru>это не так работает</ru></entry>
+  <entry><en>hold my beer</en><ru>подержи мое пиво</ru></entry>
+  <entry><en>ship it</en><ru>выкатываем!</ru></entry>
+  <entry><en>yolo</en><ru>YOLO (you only live once)</ru></entry>
+  <entry><en>rtfm</en><ru>RTFM (читай документацию)</ru></entry>
+  <entry><en>lorem ipsum</en><ru>lorem ipsum (заполнитель текста)</ru></entry>
+  <entry><en>404 not found</en><ru>404 не найдено</ru></entry>
+  <entry><en>500 internal server error</en><ru>500 внутренняя ошибка сервера</ru></entry>
+  <entry><en>captcha</en><ru>капча (защита от ботов)</ru></entry>
+  <entry><en>cookie</en><ru>куки (файлы сессии)</ru></entry>
+  <entry><en>cache</en><ru>кэш (временное хранилище)</ru></entry>
+  <entry><en>cdn</en><ru>CDN (сеть доставки контента)</ru></entry>
+  <entry><en>ssl certificate</en><ru>SSL-сертификат (шифрование трафика)</ru></entry>
+  <entry><en>api key</en><ru>API-ключ (доступ к API)</ru></entry>
+
+  <entry><en>oauth</en><ru>OAuth (протокол авторизации)</ru></entry>
+  <entry><en>jwt</en><ru>JWT (JSON Web Token)</ru></entry>
+  <entry><en>cors</en><ru>CORS (кросс-доменные запросы)</ru></entry>
+  <entry><en>websocket</en><ru>WebSocket (протокол двусторонней связи)</ru></entry>
+  <entry><en>rest api</en><ru>REST API (архитектурный стиль взаимодействия)</ru></entry>
+  <entry><en>graphql</en><ru>GraphQL (язык запросов к API)</ru></entry>
+  <entry><en>microservices</en><ru>микросервисы (архитектурный стиль)</ru></entry>
+  <entry><en>monolith</en><ru>монолит (единое приложение)</ru></entry>
+  <entry><en>serverless</en><ru>безсерверная архитектура</ru></entry>
+  <entry><en>containerization</en><ru>контейнеризация (упаковка приложений)</ru></entry>
+  <entry><en>kubernetes</en><ru>Kubernetes (система оркестрации контейнеров)</ru></entry>
+  <entry><en>docker</en><ru>Docker (платформа для контейнеризации)</ru></entry>
+  <!-- Аббревиатуры и акронимы (1401-1500) -->
+  <entry><en>LGTM</en><ru>Looks Good To Me (вроде норм)</ru></entry>
+  <entry><en>WIP</en><ru>Work In Progress (в процессе)</ru></entry>
+  <entry><en>TL;DR</en><ru>Too Long; Didn't Read (многобукв)</ru></entry>
+  <entry><en>IMO</en><ru>In My Opinion (ИМХО)</ru></entry>
+  <entry><en>RTFM</en><ru>Read The F* Manual (читай документацию)</ru></entry>
+  <entry><en>YAGNI</en><ru>You Ain't Gonna Need It (тебе это не понадобится)</ru></entry>
+  <entry><en>KISS</en><ru>Keep It Simple, Stupid (не усложняй)</ru></entry>
+  <entry><en>DRY</en><ru>Don't Repeat Yourself (не повторяйся)</ru></entry>
+  <entry><en>SOLID</en><ru>Принципы ООП (Single responsibility и др.)</ru></entry>
+  <entry><en>FUBAR</en><ru>F*ed Up Beyond All Recognition (полный хаос)</ru></entry>
+
+  <!-- Состояния кода (1501-1600) -->
+  <entry><en>working</en><ru>работает (но не трогай)</ru></entry>
+  <entry><en>broken</en><ru>сломан (но как работало?)</ru></entry>
+  <entry><en>legacy</en><ru>легаси (старый страшный код)</ru></entry>
+  <entry><en>golden</en><ru>золотой (работает идеально)</ru></entry>
+  <entry><en>hairy</en><ru>волосатый (сложный для понимания)</ru></entry>
+  <entry><en>bleeding edge</en><ru>передовой (и нестабильный)</ru></entry>
+  <entry><en>deprecated</en><ru>устаревший (лучше не использовать)</ru></entry>
+  <entry><en>brittle</en><ru>хрупкий (ломается от любого изменения)</ru></entry>
+  <entry><en>production-ready</en><ru>готов к продакшену (наверное)</ru></entry>
+  <entry><en>proof of concept</en><ru>доказательство концепции (костыль)</ru></entry>
+
+  <!-- Типы разработчиков (1601-1700) -->
+  <entry><en>rockstar</en><ru>рок-звезда (звезда)</ru></entry>
+  <entry><en>ninja</en><ru>ниндзя (тихий и опасный)</ru></entry>
+  <entry><en>wizard</en><ru>волшебник (решает невозможное)</ru></entry>
+  <entry><en>cowboy</en><ru>ковбой (пишет без плана)</ru></entry>
+  <entry><en>guru</en><ru>гуру (всезнайка)</ru></entry>
+  <entry><en>newbie</en><ru>новичок (нуб)</ru></entry>
+  <entry><en>full-stack</en><ru>фулстек (и швец, и жнец)</ru></entry>
+  <entry><en>10x</en><ru>10x разработчик (мифический сверхпродуктивный)</ru></entry>
+  <entry><en>keyboard turner</en><ru>крутильщик клавиатуры (псевдопрограммист)</ru></entry>
+  <entry><en>code monkey</en><ru>код-обезьяна (исполнитель без инициативы)</ru></entry>
+
+  <!-- Процессы (1701-1800) -->
+  <entry><en>stand-up</en><ru>стендап (ежедневное собрание)</ru></entry>
+  <entry><en>sprint</en><ru>спринт (итерация разработки)</ru></entry>
+  <entry><en>grooming</en><ru>груминг (оценка задач)</ru></entry>
+  <entry><en>retro</en><ru>ретро (разбор полетов)</ru></entry>
+  <entry><en>demo</en><ru>демо (показ фич)</ru></entry>
+  <entry><en>backlog</en><ru>беклог (список задач)</ru></entry>
+  <entry><en>refinement</en><ru>уточнение (деталей задачи)</ru></entry>
+  <entry><en>estimation</en><ru>оценка (в стори поинтах)</ru></entry>
+  <entry><en>blocker</en><ru>блокер (препятствие)</ru></entry>
+  <entry><en>unblock</en><ru>разблокировать (устранить препятствие)</ru></entry>
+
+  <!-- Инструменты (1801-1900) -->
+  <entry><en>IDE</en><ru>среда разработки</ru></entry>
+  <entry><en>CLI</en><ru>командная строка</ru></entry>
+  <entry><en>GUI</en><ru>графический интерфейс</ru></entry>
+  <entry><en>debugger</en><ru>отладчик</ru></entry>
+  <entry><en>linter</en><ru>линтер (проверка стиля)</ru></entry>
+  <entry><en>formatter</en><ru>форматтер (приведение к единому стилю)</ru></entry>
+  <entry><en>profiler</en><ru>профайлер (анализ производительности)</ru></entry>
+  <entry><en>package manager</en><ru>менеджер пакетов</ru></entry>
+  <entry><en>version control</en><ru>система контроля версий</ru></entry>
+  <entry><en>CI/CD</en><ru>непрерывная интеграция/доставка</ru></entry>
+
+  <!-- Кибербезопасность (1901-2000) -->
+  <entry><en>zero-day</en><ru>уязвимость нулевого дня</ru></entry>
+  <entry><en>phishing</en><ru>фишинг</ru></entry>
+  <entry><en>brute force</en><ru>перебор паролей</ru></entry>
+  <entry><en>DDoS</en><ru>атака на отказ в обслуживании</ru></entry>
+  <entry><en>MITM</en><ru>атака "человек посередине"</ru></entry>
+  <entry><en>XSS</en><ru>межсайтовый скриптинг</ru></entry>
+  <entry><en>SQLi</en><ru>SQL-инъекция</ru></entry>
+  <entry><en>CSRF</en><ru>межсайтовая подделка запроса</ru></entry>
+  <entry><en>RCE</en><ru>выполнение произвольного кода</ru></entry>
+  <entry><en>pentest</en><ru>тестирование на проникновение</ru></entry>
+
+  <!-- Искусственный интеллект (2001-2100) -->
+  <entry><en>AI</en><ru>искусственный интеллект</ru></entry>
+  <entry><en>ML</en><ru>машинное обучение</ru></entry>
+  <entry><en>DL</en><ru>глубокое обучение</ru></entry>
+  <entry><en>NN</en><ru>нейронная сеть</ru></entry>
+  <entry><en>CNN</en><ru>сверточная нейросеть</ru></entry>
+  <entry><en>RNN</en><ru>рекуррентная нейросеть</ru></entry>
+  <entry><en>GAN</en><ru>генеративно-состязательная сеть</ru></entry>
+  <entry><en>LLM</en><ru>большая языковая модель</ru></entry>
+  <entry><en>overfitting</en><ru>переобучение</ru></entry>
+  <entry><en>underfitting</en><ru>недообучение</ru></entry>
+
+  <!-- Облачные технологии (2101-2200) -->
+  <entry><en>IaaS</en><ru>инфраструктура как услуга</ru></entry>
+  <entry><en>PaaS</en><ru>платформа как услуга</ru></entry>
+  <entry><en>SaaS</en><ru>ПО как услуга</ru></entry>
+  <entry><en>FaaS</en><ru>функция как услуга</ru></entry>
+  <entry><en>serverless</en><ru>бессерверный (но сервера есть)</ru></entry>
+  <entry><en>autoscaling</en><ru>автомасштабирование</ru></entry>
+  <entry><en>load balancing</en><ru>балансировка нагрузки</ru></entry>
+  <entry><en>CDN</en><ru>сеть доставки контента</ru></entry>
+  <entry><en>multi-cloud</en><ru>мультиоблако</ru></entry>
+  <entry><en>hybrid cloud</en><ru>гибридное облако</ru></entry>
+
+  <!-- Мобильная разработка (2201-2300) -->
+  <entry><en>APK</en><ru>пакет приложения Android</ru></entry>
+  <entry><en>iOS</en><ru>мобильная ОС Apple</ru></entry>
+  <entry><en>Android</en><ru>мобильная ОС Google</ru></entry>
+  <entry><en>Flutter</en><ru>фреймворк для кроссплатформенной разработки</ru></entry>
+  <entry><en>React Native</en><ru>фреймворк для нативных приложений</ru></entry>
+  <entry><en>Swift</en><ru>язык для iOS</ru></entry>
+  <entry><en>Kotlin</en><ru>язык для Android</ru></entry>
+  <entry><en>proguard</en><ru>обфускатор кода</ru></entry>
+  <entry><en>gradle</en><ru>система сборки</ru></entry>
+  <entry><en>cocoapods</en><ru>менеджер зависимостей для iOS</ru></entry>
+
+  <!-- Игровая разработка (2301-2400) -->
+  <entry><en>FPS</en><ru>кадры в секунду</ru></entry>
+  <entry><en>hitbox</en><ru>зона столкновения</ru></entry>
+  <entry><en>ragdoll</en><ru>физика падения</ru></entry>
+  <entry><en>shader</en><ru>шейдер</ru></entry>
+  <entry><en>texture</en><ru>текстура</ru></entry>
+  <entry><en>polygon</en><ru>полигон</ru></entry>
+  <entry><en>raycasting</en><ru>трассировка лучей</ru></entry>
+  <entry><en>AI</en><ru>искусственный интеллект (в играх)</ru></entry>
+  <entry><en>NPC</en><ru>неигровой персонаж</ru></entry>
+  <entry><en>MMORPG</en><ru>многопользовательская ролевая игра</ru></entry>
+
+  <!-- Веб-разработка (2401-2500) -->
+  <entry><en>SEO</en><ru>поисковая оптимизация</ru></entry>
+  <entry><en>CMS</en><ru>система управления контентом</ru></entry>
+  <entry><en>SPA</en><ru>одностраничное приложение</ru></entry>
+  <entry><en>SSR</en><ru>рендеринг на сервере</ru></entry>
+  <entry><en>CSR</en><ru>рендеринг на клиенте</ru></entry>
+  <entry><en>PWA</en><ru>прогрессивное веб-приложение</ru></entry>
+  <entry><en>REST</en><ru>архитектурный стиль API</ru></entry>
+  <entry><en>GraphQL</en><ru>язык запросов</ru></entry>
+  <entry><en>WebSocket</en><ru>протокол двусторонней связи</ru></entry>
+  <entry><en>JAMstack</en><ru>архитектура веб-приложений</ru></entry>
+
+  <!-- Базы данных (2501-2600) -->
+  <entry><en>ACID</en><ru>требования к транзакциям</ru></entry>
+  <entry><en>NoSQL</en><ru>нереляционные БД</ru></entry>
+  <entry><en>sharding</en><ru>горизонтальное разделение</ru></entry>
+  <entry><en>replication</en><ru>репликация</ru></entry>
+  <entry><en>index</en><ru>индекс</ru></entry>
+  <entry><en>ORM</en><ru>объектно-реляционное отображение</ru></entry>
+  <entry><en>migration</en><ru>миграция</ru></entry>
+  <entry><en>stored procedure</en><ru>хранимая процедура</ru></entry>
+  <entry><en>trigger</en><ru>триггер</ru></entry>
+  <entry><en>view</en><ru>представление</ru></entry>
+
+  <!-- DevOps (2601-2700) -->
+  <entry><en>IaC</en><ru>инфраструктура как код</ru></entry>
+  <entry><en>CI/CD</en><ru>непрерывная интеграция/доставка</ru></entry>
+  <entry><en>Docker</en><ru>контейнеризация</ru></entry>
+  <entry><en>Kubernetes</en><ru>оркестрация контейнеров</ru></entry>
+  <entry><en>Ansible</en><ru>управление конфигурацией</ru></entry>
+  <entry><en>Terraform</en><ru>управление инфраструктурой</ru></entry>
+  <entry><en>Prometheus</en><ru>мониторинг</ru></entry>
+  <entry><en>Grafana</en><ru>визуализация метрик</ru></entry>
+  <entry><en>ELK</en><ru>стек для логов</ru></entry>
+  <entry><en>GitOps</en><ru>управление через Git</ru></entry>
+
+  <!-- Тестирование (2701-2800) -->
+  <entry><en>TDD</en><ru>разработка через тестирование</ru></entry>
+  <entry><en>BDD</en><ru>разработка через поведение</ru></entry>
+  <entry><en>unit test</en><ru>модульный тест</ru></entry>
+  <entry><en>integration test</en><ru>интеграционный тест</ru></entry>
+  <entry><en>e2e test</en><ru>сквозной тест</ru></entry>
+  <entry><en>mocking</en><ru>имитация</ru></entry>
+  <entry><en>stubbing</en><ru>заглушки</ru></entry>
+  <entry><en>fixture</en><ru>фикстура</ru></entry>
+  <entry><en>coverage</en><ru>покрытие</ru></entry>
+  <entry><en>regression</en><ru>регрессия</ru></entry>
+
+  <!-- UI/UX (2801-2900) -->
+  <entry><en>UI</en><ru>пользовательский интерфейс</ru></entry>
+  <entry><en>UX</en><ru>пользовательский опыт</ru></entry>
+  <entry><en>wireframe</en><ru>каркас</ru></entry>
+  <entry><en>prototype</en><ru>прототип</ru></entry>
+  <entry><en>responsive</en><ru>адаптивный</ru></entry>
+  <entry><en>accessibility</en><ru>доступность</ru></entry>
+  <entry><en>usability</en><ru>удобство</ru></entry>
+  <entry><en>material design</en><ru>дизайн-система Google</ru></entry>
+  <entry><en>Figma</en><ru>инструмент дизайна</ru></entry>
+  <entry><en>Sketch</en><ru>инструмент дизайна</ru></entry>
+
+  <!-- Аналитика (2901-3000) -->
+  <entry><en>BI</en><ru>бизнес-аналитика</ru></entry>
+  <entry><en>ETL</en><ru>извлечение, преобразование, загрузка</ru></entry>
+  <entry><en>OLAP</en><ru>аналитическая обработка</ru></entry>
+  <entry><en>OLTP</en><ru>оперативная обработка</ru></entry>
+  <entry><en>dashboard</en><ru>панель</ru></entry>
+  <entry><en>KPI</en><ru>ключевой показатель</ru></entry>
+  <entry><en>ROI</en><ru>окупаемость инвестиций</ru></entry>
+  <entry><en>funnel</en><ru>воронка</ru></entry>
+  <entry><en>segmentation</en><ru>сегментация</ru></entry>
+  <entry><en>predictive</en><ru>прогнозная аналитика</ru></entry>
+
+  <!-- Блокчейн (3001-3100) -->
+  <entry><en>blockchain</en><ru>блокчейн</ru></entry>
+  <entry><en>smart contract</en><ru>смарт-контракт</ru></entry>
+  <entry><en>NFT</en><ru>невзаимозаменяемый токен</ru></entry>
+  <entry><en>DeFi</en><ru>децентрализованные финансы</ru></entry>
+  <entry><en>dApp</en><ru>децентрализованное приложение</ru></entry>
+  <entry><en>PoW</en><ru>доказательство работы</ru></entry>
+  <entry><en>PoS</en><ru>доказательство доли</ru></entry>
+  <entry><en>DAO</en><ru>децентрализованная организация</ru></entry>
+  <entry><en>gas fee</en><ru>комиссия за транзакцию</ru></entry>
+  <entry><en>wallet</en><ru>криптокошелек</ru></entry>
+  <entry><en>ledger</en><ru>реестр</ru></entry>
+  <entry><en>hash</en><ru>хеш</ru></entry>
+  <entry><en>mining</en><ru>майнинг</ru></entry>
+  <entry><en>fork</en><ru>форк (ответвление)</ru></entry>
+  <entry><en>airdrop</en><ru>раздача токенов</ru></entry>
+  <entry><en>whale</en><ru>криптовалютный "кит"</ru></entry>
+  <entry><en>rug pull</en><ru>схема "снятия денег"</ru></entry>
+  <entry><en>HODL</en><ru>держать криптовалюту (не продавать)</ru></entry>
+
+  <entry><en>FOMO</en><ru>страх упустить возможность</ru></entry>
+  <entry><en>FUD</en><ru>страх, неопределенность и сомнение</ru></entry>
+  <entry><en>DYOR</en><ru>исследуй сам (do your own research)</ru></entry>
+  <entry><en>whitelist</en><ru>белый список (допущенные пользователи)</ru></entry>
+  <entry><en>blacklist</en><ru>черный список (запрещенные пользователи)</ru></entry>
+  <entry><en>gas limit</en><ru>лимит газа (максимальное потребление газа)</ru></entry>
+  <entry><en>gas price</en><ru>цена газа (стоимость транзакции)</ru></entry>
+  <entry><en>staking</en><ru>стейкинг (заморозка криптовалюты для получения дохода)</ru></entry>
+  <entry><en>yield farming</en><ru>доходность от фермерства (получение дохода от ликвидности)</ru></entry>
+  <entry><en>liquidity pool</en><ru>пул ликвидности (совокупность средств для торговли)</ru></entry>
+  <entry><en>DEX</en><ru>децентрализованная биржа</ru></entry>
+  <entry><en>CEX</en><ru>централизованная биржа</ru></entry>
+  <entry><en>tokenomics</en><ru>экономика токенов</ru></entry>
+  <entry><en>airdropped</en><ru>полученный в результате a раздачи</ru></entry>
+  <entry><en>whitelisted</en><ru>включенный в белый список</ru></entry>
+  <entry><en>blacklisted</en><ru>включенный в черный список</ru></entry>
+  <entry><en>rug pulled</en><ru>снятый с проекта (обманутый)</ru></entry>
+  <entry><en>HODLer</en><ru>держатель криптовалюты (не продает)</ru></entry>
+  <entry><en>FOMOer</en><ru>тот, кто боится упустить возможность</ru></entry>
+  <entry><en>FUDster</en><ru>распространитель страха, неопределенности и сомнения</ru></entry>
+  <entry><en>DYORer</en><ru>тот, кто проводит собственное исследование</ru></entry>
+  <entry><en>gas guzzler</en><ru>приложение с высоким потреблением газа</ru></entry>
+  <entry><en>gas saver</en><ru>приложение с низ потреблением газа</ru></entry>
+  <entry><en>gas war</en><ru>конкуренция за низкую цену газа</ru></entry>
+  <entry><en>whale watching</en><ru>наблюдение за действиями крупных игроков</ru></entry>
+  <entry><en>whale manipulation</en><ru>манипуляция ценой крупными игроками</ru></entry>
+  <entry><en>pump and dump</en><ru>схема "накачки" и "слива"</ru></entry>
+  <entry><en>moonshot</en><ru>потенциально прибыльный проект</ru></entry>
+  <entry><en>shitcoin</en><ru>сомнительная криптовалюта</ru></entry>
+  <entry><en>altcoin</en><ru>альтернативная криптовалюта</ru></entry>
+  <entry><en>stablecoin</en><ru>стейблкоин (привязан к валюте)</ru></entry>
+  <entry><en>gasless transaction</en><ru>транзакция без газа (без комиссии)</ru></entry>
+  <entry><en>layer 2</en><ru>второй уровень ( решения для масштабирования)</ru></entry>
+  <entry><en>zk-rollup</en><ru>ZK-роллап  (решение для масштабирования)</ru></entry>
+  <entry><en>optimistic rollup</en><ru>оптимистичный роллап (решение для масштабирования)</ru></entry>
+  <entry><en>cross-chain</en><ru>кросс-чейн (межсетевые взаимодействия)</ru></entry>
+  <entry><en>interoperability</en><ru>взаимодействие (между блокчейнами)</ru></entry>
+  <entry><en>decentralized exchange</en><ru>децентрализованная биржа (DEX)</ru></entry>
+  <entry><en>centralized exchange</en><ru>централизованная биржа (CEX)</ru></entry>
+  <entry><en>liquidity mining</en><ru>ликвидность (получение дохода от ликвидности)</ru></entry>
+  <entry><en>yield aggregator</en><ru>агрегатор доходности (сбор доходности из разных источников)</ru></entry>
+  <entry><en>flash loan</en><ru>мгновенный заем (без залога)</ru></entry>
+  <entry><en>oracle</en><ru>оракул (внешние данные для смарт-контрактов)</ru></entry>
+  <entry><en>decentralized finance</en><ru>децентрализованные финансы (DeFi)</ru></entry>
+  <entry><en>token swap</en><ru>обмен токенов</ru></entry>
+  <entry><en>staking pool</en><ru>пул стейкинга (совместный стейкинг)</ru></entry>
+  <entry><en>yield farming pool</en><ru>пул доходности (совместное фермерство)</ru></entry>
+  <entry><en>liquidity provider</en><ru>поставщик ликвидности</ru></entry>
+  <entry><en>gas optimization</en><ru>оптимизация газа (снижение затрат на транзакции)</ru></entry>
+   
+  <!-- Аппаратные ошибки (1-50) -->
+  <entry><en>blue screen of death</en><ru>синий экран смерти (BSOD)</ru></entry>
+  <entry><en>kernel panic</en><ru>паника ядра (ОС Linux/macOS)</ru></entry>
+  <entry><en>hardware failure</en><ru>аппаратный сбой</ru></entry>
+  <entry><en>overheating</en><ru>перегрев компонентов</ru></entry>
+  <entry><en>memory leak</en><ru>утечка памяти</ru></entry>
+  <entry><en>disk failure</en><ru>отказ диска</ru></entry>
+  <entry><en>RAID degradation</en><ru>деградация RAID-массива</ru></entry>
+  <entry><en>firmware bug</en><ru>ошибка микропрограммы</ru></entry>
+  <entry><en>power surge</en><ru>скачок напряжения</ru></entry>
+  <entry><en>electromagnetic interference</en><ru>электромагнитные помехи</ru></entry>
+
+  <!-- Сетевые ошибки (51-100) -->
+  <entry><en>packet loss</en><ru>потеря пакетов</ru></entry>
+  <entry><en>timeout</en><ru>таймаут соединения</ru></entry>
+  <entry><en>DNS resolution failed</en><ru>ошибка разрешения DNS</ru></entry>
+  <entry><en>connection refused</en><ru>соединение отклонено</ru></entry>
+  <entry><en>SSL handshake failed</en><ru>ошибка SSL-рукопожатия</ru></entry>
+  <entry><en>latency spike</en><ru>всплеск задержки</ru></entry>
+  <entry><en>MTU mismatch</en><ru>несоответствие MTU</ru></entry>
+  <entry><en>ARP cache poisoning</en><ru>отравление ARP-кэша</ru></entry>
+  <entry><en>BGP hijacking</en><ru>перехват BGP-маршрутов</ru></entry>
+  <entry><en>DDoS attack</en><ru>DDoS-атака</ru></entry>
+
+  <!-- Ошибки баз данных (101-150) -->
+  <entry><en>deadlock</en><ru>взаимная блокировка</ru></entry>
+  <entry><en>constraint violation</en><ru>нарушение ограничения</ru></entry>
+  <entry><en>query timeout</en><ru>таймаут запроса</ru></entry>
+  <entry><en>connection pool exhausted</en><ru>исчерпание пула соединений</ru></entry>
+  <entry><en>orphaned record</en><ru>осиротевшая запись</ru></entry>
+  <entry><en>index corruption</en><ru>повреждение индекса</ru></entry>
+  <entry><en>transaction log full</en><ru>переполнение журнала транзакций</ru></entry>
+  <entry><en>schema mismatch</en><ru>несоответствие схемы</ru></entry>
+  <entry><en>N+1 query problem</en><ru>проблема N+1 запросов</ru></entry>
+  <entry><en>race condition</en><ru>состояние гонки</ru></entry>
+
+  <!-- Веб-ошибки (151-200) -->
+  <entry><en>500 Internal Server Error</en><ru>внутренняя ошибка сервера</ru></entry>
+  <entry><en>404 Not Found</en><ru>ресурс не найден</ru></entry>
+  <entry><en>403 Forbidden</en><ru>доступ запрещен</ru></entry>
+  <entry><en>400 Bad Request</en><ru>некорректный запрос</ru></entry>
+  <entry><en>502 Bad Gateway</en><ru>ошибка шлюза</ru></entry>
+  <entry><en>503 Service Unavailable</en><ru>сервис недоступен</ru></entry>
+  <entry><en>CORS error</en><ru>ошибка CORS</ru></entry>
+  <entry><en>mixed content</en><ru>смешанное содержимое</ru></entry>
+  <entry><en>CSRF token mismatch</en><ru>несоответствие CSRF-токена</ru></entry>
+  <entry><en>XSS vulnerability</en><ru>уязвимость XSS</ru></entry>
+
+  <!-- Ошибки безопасности (201-250) -->
+  <entry><en>SQL injection</en><ru>SQL-инъекция</ru></entry>
+  <entry><en>buffer overflow</en><ru>переполнение буфера</ru></entry>
+  <entry><en>privilege escalation</en><ru>повышение привилегий</ru></entry>
+  <entry><en>zero-day exploit</en><ru>эксплойт нулевого дня</ru></entry>
+  <entry><en>man-in-the-middle</en><ru>атака "человек посередине"</ru></entry>
+  <entry><en>brute force attack</en><ru>атака перебором</ru></entry>
+  <entry><en>session hijacking</en><ru>перехват сессии</ru></entry>
+  <entry><en>phishing</en><ru>фишинг</ru></entry>
+  <entry><en>malware infection</en><ru>заражение вредоносным ПО</ru></entry>
+  <entry><en>ransomware</en><ru>программа-вымогатель</ru></entry>
+
+  <!-- Ошибки разработки (251-300) -->
+  <entry><en>null pointer exception</en><ru>исключение нулевого указателя</ru></entry>
+  <entry><en>array index out of bounds</en><ru>выход за границы массива</ru></entry>
+  <entry><en>stack overflow</en><ru>переполнение стека</ru></entry>
+  <entry><en>infinite loop</en><ru>бесконечный цикл</ru></entry>
+  <entry><en>memory corruption</en><ru>повреждение памяти</ru></entry>
+  <entry><en>type mismatch</en><ru>несоответствие типов</ru></entry>
+  <entry><en>division by zero</en><ru>деление на ноль</ru></entry>
+  <entry><en>race condition</en><ru>состояние гонки</ru></entry>
+  <entry><en>deadlock</en><ru>взаимная блокировка</ru></entry>
+  <entry><en>resource leak</en><ru>утечка ресурсов</ru></entry>
+
+  <!-- Ошибки ОС (301-350) -->
+  <entry><en>segmentation fault</en><ru>ошибка сегментации</ru></entry>
+  <entry><en>access violation</en><ru>нарушение доступа</ru></entry>
+  <entry><en>dll hell</en><ru>проблема DLL</ru></entry>
+  <entry><en>driver conflict</en><ru>конфликт драйверов</ru></entry>
+  <entry><en>registry corruption</en><ru>повреждение реестра</ru></entry>
+  <entry><en>filesystem corruption</en><ru>повреждение ФС</ru></entry>
+  <entry><en>page fault</en><ru>ошибка страницы</ru></entry>
+  <entry><en>system hang</en><ru>зависание системы</ru></entry>
+  <entry><en>boot loop</en><ru>циклическая перезагрузка</ru></entry>
+  <entry><en>kernel oops</en><ru>ошибка ядра Linux</ru></entry>
+
+  <!-- Облачные ошибки (351-400) -->
+  <entry><en>quota exceeded</en><ru>превышение квоты</ru></entry>
+  <entry><en>rate limiting</en><ru>ограничение частоты запросов</ru></entry>
+  <entry><en>autoscaling failure</en><ru>сбой автомасштабирования</ru></entry>
+  <entry><en>region outage</en><ru>отказ региона</ru></entry>
+  <entry><en>misconfigured IAM</en><ru>неправильная настройка IAM</ru></entry>
+  <entry><en>VPC peering issue</en><ru>проблема пиринга VPC</ru></entry>
+  <entry><en>cold start</en><ru>холодный старт</ru></entry>
+  <entry><en>throttling</en><ru>троттлинг</ru></entry>
+  <entry><en>cross-account access denied</en><ru>отказ в межаккаунтном доступе</ru></entry>
+  <entry><en>data egress cost surprise</en><ru>неожиданные расходы на исходящий трафик</ru></entry>
+
+  <!-- Ошибки CI/CD (401-450) -->
+  <entry><en>build failure</en><ru>сбой сборки</ru></entry>
+  <entry><en>dependency conflict</en><ru>конфликт зависимостей</ru></entry>
+  <entry><en>flaky test</en><ru>ненадежный тест</ru></entry>
+  <entry><en>deployment rollback</en><ru>откат развертывания</ru></entry>
+  <entry><en>configuration drift</en><ru>расхождение конфигураций</ru></entry>
+  <entry><en>artifact corruption</en><ru>повреждение артефакта</ru></entry>
+  <entry><en>pipeline timeout</en><ru>таймаут пайплайна</ru></entry>
+  <entry><en>secret leakage</en><ru>утечка секретов</ru></entry>
+  <entry><en>environment mismatch</en><ru>несоответствие окружений</ru></entry>
+  <entry><en>canary failure</en><ru>сбой канареечного развертывания</ru></entry>
+
+  <!-- Ошибки мобильных приложений (451-500) -->
+  <entry><en>ANR</en><ru>Application Not Responding (приложение не отвечает)</ru></entry>
+  <entry><en>force close</en><ru>принудительное закрытие</ru></entry>
+  <entry><en>memory warning</en><ru>предупреждение о памяти</ru></entry>
+  <entry><en>battery drain</en><ru>быстрый разряд батареи</ru></entry>
+  <entry><en>UI freeze</en><ru>зависание интерфейса</ru></entry>
+  <entry><en>background crash</en><ru>краш в фоновом режиме</ru></entry>
+  <entry><en>permission denied</en><ru>отказ в разрешении</ru></entry>
+  <entry><en>in-app purchase failure</en><ru>ошибка встроенных покупок</ru></entry>
+  <entry><en>push notification issue</en><ru>проблема с push-уведомлениями</ru></entry>
+  <entry><en>deep link broken</en><ru>неработающая глубокая ссылка</ru></entry>
+
+  <!-- Ошибки игр (501-550) -->
+  <entry><en>texture corruption</en><ru>повреждение текстур</ru></entry>
+  <entry><en>physics glitch</en><ru>глюк физики</ru></entry>
+  <entry><en>save game corruption</en><ru>повреждение сохранений</ru></entry>
+  <entry><en>multiplayer desync</en><ru>рассинхронизация в мультиплеере</ru></entry>
+  <entry><en>framerate drop</en><ru>падение FPS</ru></entry>
+  <entry><en>collision detection fail</en><ru>ошибка детекции столкновений</ru></entry>
+  <entry><en>memory leak in level</en><ru>утечка памяти на уровне</ru></entry>
+  <entry><en>AI pathfinding stuck</en><ru>застревание ИИ при поиске пути</ru></entry>
+  <entry><en>scripting engine error</en><ru>ошибка скриптового движка</ru></entry>
+  <entry><en>shader compilation failed</en><ru>ошибка компиляции шейдера</ru></entry>
+
+  <!-- Ошибки IoT (551-600) -->
+  <entry><en>sensor drift</en><ru>дрейф датчика</ru></entry>
+  <entry><en>firmware update bricked</en><ru>устройство "кирпич" после обновления</ru></entry>
+  <entry><en>MQTT disconnect</en><ru>отключение MQTT</ru></entry>
+  <entry><en>Zigbee interference</en><ru>помехи Zigbee</ru></entry>
+  <entry><en>edge device offline</en><ru>отключение edge-устройства</ru></entry>
+  <entry><en>OTA update failed</en><ru>сбой OTA-обновления</ru></entry>
+  <entry><en>power cycling</en><ru>циклическая перезагрузка</ru></entry>
+  <entry><en>time sync issue</en><ru>проблема синхронизации времени</ru></entry>
+  <entry><en>mesh network partition</en><ru>разделение mesh-сети</ru></entry>
+  <entry><en>certificate expiration</en><ru>истечение срока сертификата</ru></entry>
+
+  <!-- Ошибки AI/ML (601-650) -->
+  <entry><en>training divergence</en><ru>расходимость обучения</ru></entry>
+  <entry><en>overfitting</en><ru>переобучение</ru></entry>
+  <entry><en>underfitting</en><ru>недообучение</ru></entry>
+  <entry><en>vanishing gradient</en><ru>исчезающий градиент</ru></entry>
+  <entry><en>exploding gradient</en><ru>взрывающийся градиент</ru></entry>
+  <entry><en>mode collapse</en><ru>коллапс мод (в GAN)</ru></entry>
+  <entry><en>data leakage</en><ru>утечка данных</ru></entry>
+  <entry><en>class imbalance</en><ru>дисбаланс классов</ru></entry>
+  <entry><en>CUDA out of memory</en><ru>нехватка памяти CUDA</ru></entry>
+  <entry><en>NaN propagation</en><ru>распространение NaN</ru></entry>
+
+  <!-- Ошибки блокчейна (651-700) -->
+  <entry><en>chain reorganization</en><ru>реорганизация цепи</ru></entry>
+  <entry><en>double spending</en><ru>двойное расходование</ru></entry>
+  <entry><en>51% attack</en><ru>атака 51%</ru></entry>
+  <entry><en>smart contract bug</en><ru>ошибка смарт-контракта</ru></entry>
+  <entry><en>gas estimation failed</en><ru>ошибка оценки газа</ru></entry>
+  <entry><en>nonce mismatch</en><ru>несоответствие nonce</ru></entry>
+  <entry><en>front-running</en><ru>опережение транзакций</ru></entry>
+  <entry><en>reentrancy attack</en><ru>атака повторного входа</ru></entry>
+  <entry><en>oracle manipulation</en><ru>манипуляция оракулом</ru></entry>
+  <entry><en>validator slashing</en><ru>наказание валидатора</ru></entry>
+  <entry><en>block size limit exceeded</en><ru>превышение лимита размера блока</ru></entry>
+  <entry><en>transaction malleability</en><ru>изменяемость транзакции</ru></entry>
+  <entry><en>dust attack</en><ru>атака "пыли"</ru></entry>
+</dictionary>
